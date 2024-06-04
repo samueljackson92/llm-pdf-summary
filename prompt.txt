@@ -8,6 +8,7 @@ Please output JSON formatted metadata with the following schema structure:
     "report_id": "string",
 }}
 
+You MUST only output valid JSON as a response.
 
 Do not include report IDs in the title.
 Do not include author names in the title.

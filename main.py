@@ -61,7 +61,8 @@ def main():
         logging.info(f"Creating metadata for {path}")
         text = read_pdf(Path(path).expanduser())
         metadata = model.create(text)
-        output_file = output_folder / path.with_suffix(".json").name
+        output_file = output_folder / path.with_suffix(".json")
+        output_file.parent.mkdir(parents=True, exist_ok=True)
         write_json(output_file, metadata)
         logging.info(
             f"Written metadata to {output_file}. Done {(i+1) / n_files*100:.2f}%"
