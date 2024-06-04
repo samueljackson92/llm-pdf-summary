@@ -1,0 +1,16 @@
+{
+    "title": "Adjoint-based sensitivity analysis of a differentially-heated cavity",
+    "authors": [
+        "Josh Williams",
+        "Ubaid Ali Qadri",
+        "Sue Thorne"
+    ],
+    "summary": "This report presents an adjoint-based study on the stability of a differentially-heated cavity at Rayleigh numbers near the stability frontier. The sensitivity analysis was performed using the adjoint global mode and direct mode obtained from classic linear stability analysis.",
+    "keywords": [
+        "Adjoint method",
+        "Stability analysis",
+        "Differentially-heated cavity",
+        "Rayleigh number",
+        "Nuclear fusion reactors"
+    ]
+}

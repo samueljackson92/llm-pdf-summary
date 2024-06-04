@@ -1,0 +1,18 @@
+{
+    "title": "Report on DG performance in Nektar++",
+    "authors": [
+        "Edward Laughton",
+        "David Moxey",
+        "Chris Cantwell",
+        "Spencer Sherwin"
+    ],
+    "summary": "This report outlines the current single-node performance of discontinuous Galerkin (DG) operators within Nektar++ on x86-64 CPU hardware platforms, with the aim of identifying present bottlenecks in the development of higher-dimensional DG kernels.",
+    "keywords": [
+        "discontinuous Galerkin",
+        "Nektar++",
+        "performance",
+        "CPU",
+        "DG operators",
+        "x86-64"
+    ]
+}

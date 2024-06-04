@@ -1,0 +1,17 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System: Complementary actions and internal work",
+    "authors": [
+        "Wayne Arter",
+        "Matthew Barton",
+        "Seimon Powell"
+    ],
+    "summary": "This report describes work for ExCALIBUR project NEPTUNE at Milestone M7c.3. It outlines complementary actions to assist code-coupling, benchmarking techniques and physics databases. The work includes the development of educational material, technical material, text processing tools, improvements to the developers\u2019 website, and benchmarking aimed at helping optimize NESO execution.",
+    "keywords": [
+        "ExCALIBUR",
+        "Fusion Modelling System",
+        "Code-coupling",
+        "Benchmarking Techniques",
+        "Physics Databases",
+        "Finite Element Algorithms"
+    ]
+}

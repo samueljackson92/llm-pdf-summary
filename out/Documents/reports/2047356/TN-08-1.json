@@ -1,0 +1,23 @@
+{
+    "title": "Excalibur-Neptune report: Task 2.4 Non-intrusive UQ with BOUT++ 1D fluid solver",
+    "authors": [
+        "Ben Dudson",
+        "Peter Hill",
+        "Ed Higgins",
+        "David Dickinson",
+        "Steven Wright",
+        "David Moxey"
+    ],
+    "summary": "In this report, we summarize experience gained in the application of non-intrusive uncertainty quantification (UQ) to a sample test case from the SD1D test cases set out in task 83-2.1. This provides a test ground for the practical aspects of UQ for realistic plasma simulations and showcases the easyvvuq package to facilitate the construction of UQ workflows.",
+    "keywords": [
+        "Excalibur-Neptune",
+        "task 2.4",
+        "Non-intrusive UQ",
+        "BOUT++",
+        "fluid solver",
+        "Uncertainty quantification",
+        "SD1D",
+        "Easyvvuq",
+        "Plasma simulations"
+    ]
+}

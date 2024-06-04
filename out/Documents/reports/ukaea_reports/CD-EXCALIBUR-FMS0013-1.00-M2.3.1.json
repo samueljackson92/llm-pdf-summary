@@ -1,0 +1,18 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System: Investigation of Particle Algorithms for NEPTUNE at Milestone 2.3.1",
+    "authors": [
+        "Wayne Arter",
+        "Lucian Anton",
+        "Debasmita Samaddar"
+    ],
+    "summary": "This report describes work for ExCALIBUR project NEPTUNE at Milestone 2.3.1, investigating algorithms to optimize usage of particle-based information at ExaScale, focusing on reducing noise levels in the neutral-plasma fluid interaction and studying particle-mesh interaction effects with elements of different orders.",
+    "keywords": [
+        "ExCALIBUR",
+        "Fusion Modelling System",
+        "NEPTUNE",
+        "Particle Algorithms",
+        "ExaScale",
+        "neutral-plasma fluid interaction",
+        "particle-mesh interaction"
+    ]
+}

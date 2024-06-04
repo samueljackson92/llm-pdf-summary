@@ -1,0 +1,15 @@
+{
+    "title": "Recommendations for enabling the uncertainty quantification of future multiscale fusion modelling code",
+    "authors": [
+        "Maxime Vassaux",
+        "Wouter Edeling",
+        "Peter V. Coveney"
+    ],
+    "summary": "This document reports on the process of implementing and applying uncertainty quantification methods to the building blocks of the future NEPTUNE fusion multiscale model, drawing from collaboration with the EU-funded VECMA project.",
+    "keywords": [
+        "uncertainty quantification",
+        "multiscale fusion modeling",
+        "NEPTUNE",
+        "VECMA"
+    ]
+}

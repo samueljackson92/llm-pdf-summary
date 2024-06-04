@@ -1,0 +1,17 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System: Assessment of Required UQ Methods for NEP-TUNE Software",
+    "authors": [
+        "Ed Threlfall",
+        "Wayne Arter",
+        "Maxime Vassaux",
+        "Wouter Edeling"
+    ],
+    "summary": "This report describes work for the ExCALIBUR project NEPTUNE at Milestone 2.4.1. It outlines a discussion on technical progress, including the recent report by MV and the pros and cons of various UQ methods for NEP-TUNE.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "UQ methods",
+        "technical progress",
+        "plasma physics"
+    ]
+}

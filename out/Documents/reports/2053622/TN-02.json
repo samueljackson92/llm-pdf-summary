@@ -1,0 +1,15 @@
+{
+    "title": "Matrix-free kernel for the anisotropic Laplacian operator for x86 architectures",
+    "authors": [
+        "Author1",
+        "Author2"
+    ],
+    "summary": "This document discusses the implementation of an efficient matrix-free operator and SIMD vectorization methodology to solve the anisotropic thermal conduction formulation using high-order spectral/hp element methods under the Nektar++ framework.",
+    "keywords": [
+        "anisotropic Laplacian",
+        "x86 architectures",
+        "spectral/hp element methods",
+        "Nektar++",
+        "SIMD vectorization"
+    ]
+}

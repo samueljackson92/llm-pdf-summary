@@ -1,0 +1,23 @@
+{
+    "title": "Project NEPTUNE: 1D Fluid Models for Fusion Research",
+    "authors": [
+        "Ben Dudson",
+        "Peter Hill",
+        "David Dickinson",
+        "Steven Wright",
+        "Edward Higgins",
+        "David Moxey"
+    ],
+    "summary": "This document outlines the development and testing of 1D fluid models for plasma edge research as part of Project NEPTUNE. The work includes the use of SD1D, Hermes-3, and other tools to test individual parts of the model, explore uncertainty quantification, and develop sheath boundary conditions, multi-species coupling, and more.",
+    "keywords": [
+        "Project NEPTUNE",
+        "Fusion research",
+        "Plasma edge",
+        "1D fluid models",
+        "SD1D",
+        "Hermes-3",
+        "Uncertainty Quantification",
+        "Sheath boundary conditions",
+        "Multi-species coupling"
+    ]
+}

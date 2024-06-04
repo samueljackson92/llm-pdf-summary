@@ -1,0 +1,17 @@
+{
+    "title": "Surface mesh generation",
+    "authors": [
+        "Not provided"
+    ],
+    "summary": "This document discusses work for the ExCALIBUR project NEPTUNE at Milestone 2.1.2. It outlines relevant capabilities within the mesh generation software NekMesh, as well as initial tests to assess performance.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "Surface mesh",
+        "NekMesh",
+        "High-order representation",
+        "Delaunay triangulation",
+        "CAD",
+        "mesh quality"
+    ]
+}

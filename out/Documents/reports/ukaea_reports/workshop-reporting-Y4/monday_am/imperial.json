@@ -1,0 +1,18 @@
+{
+    "title": "Nektar++: High-dimensional spectral elements",
+    "authors": [
+        "Chris Cantwell",
+        "David Moxey",
+        "Spencer Sherwin"
+    ],
+    "summary": "This project aims to develop support for higher-than-3D spaces in Nektar++. The approach is to construct the high-dimensional space as a tensor product of two (or potentially more) lower-dimensional spaces, and leverage the implementation for lower-dimensional spaces.",
+    "keywords": [
+        "Nektar++",
+        "spectral/hp element framework",
+        "high-dimensional spaces",
+        "tensor product",
+        "MultiRegions",
+        "TensorRegion",
+        "TensorStorage"
+    ]
+}

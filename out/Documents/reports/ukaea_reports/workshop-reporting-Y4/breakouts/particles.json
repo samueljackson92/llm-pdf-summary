@@ -1,0 +1,17 @@
+{
+    "title": "Particles Breakout Session: Exploring Different Applications and Use Cases",
+    "authors": [
+        "James Cook (JC)",
+        "Peter Coveney (PC)"
+    ],
+    "summary": "This document discusses the requirements for a particle framework capable of modeling complex interactions in various fields, including charge-charge, charge-neutral, and particle-wall. The wide range of applications for 'particle' is emphasized, from points to blobs, atoms, species, etc., across different length scales. The document also covers the hybrid representation approach for species in collisional and collision-less regimes, and the importance of reducing noise in particle representations.",
+    "keywords": [
+        "Particles",
+        "Framework",
+        "Interactions",
+        "Collision-less environment",
+        "Kinetic representation",
+        "Hybrid representation",
+        "Noise reduction"
+    ]
+}

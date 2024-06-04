@@ -1,0 +1,19 @@
+{
+    "title": "A higher-order finite-element implementation of the full-FLandau Fokker-Planck collision operator for charged particle collisions in a low density plasma",
+    "authors": [
+        "M. R. Hardman",
+        "M. Abazorius",
+        "J. Omotani",
+        "M. Barnes",
+        "S. L. Newton",
+        "F. I. Parra"
+    ],
+    "summary": "This document presents a higher-order finite-element implementation of the full-FLandau Fokker-Planck collision operator for charged particle collisions in a low density plasma.",
+    "keywords": [
+        "plasma physics",
+        "finite-element method",
+        "collision operator",
+        "Fokker-Planck equation",
+        "particle collisions"
+    ]
+}

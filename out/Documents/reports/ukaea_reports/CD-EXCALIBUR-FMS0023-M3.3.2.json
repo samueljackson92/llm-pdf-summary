@@ -1,0 +1,18 @@
+{
+    "title": "ExCALIBUR: Design Patterns Specifications and Prototypes for Tokamak Edge Simulation",
+    "authors": [
+        "Wayne Arter",
+        "Ed Threlfall",
+        "Joseph Parker",
+        "Stan Pamela"
+    ],
+    "summary": "This report describes work for the ExCALIBUR project NEPTUNE at Milestone 3.3.2, focusing on design patterns and prototypes specifications for tokamak edge simulation.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "design patterns",
+        "tokamak",
+        "simulation",
+        "software engineering"
+    ]
+}

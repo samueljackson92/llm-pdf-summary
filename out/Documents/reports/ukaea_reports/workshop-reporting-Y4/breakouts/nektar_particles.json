@@ -1,0 +1,22 @@
+{
+    "title": "Nektar Discussions: Projection of Particle Data onto FEM Function Space and More",
+    "authors": [
+        "Will Saunders",
+        "Dave Moxey",
+        "Chris Cantwell"
+    ],
+    "summary": "Side discussions among Nektar++ team members and Patrick Farrell about implementation details, mathematical formulations, and future plans for particles and FEM in the context of Nektar++ and Hermes3.",
+    "keywords": [
+        "Nektar++",
+        "Particles",
+        "FEM",
+        "Implementation Details",
+        "Performance Portability",
+        "Mesh Augmentation",
+        "Equations 2-6",
+        "Hermes3",
+        "BOUT++",
+        "Atomic Processes",
+        "SOLPS-ITER"
+    ]
+}

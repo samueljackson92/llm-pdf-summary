@@ -1,0 +1,18 @@
+{
+    "title": "r-adapted meshes for the tokamak edge region",
+    "authors": [
+        "Mashy Green",
+        "David Moxey",
+        "Chris Cantwell",
+        "Bin Liu",
+        "Spencer Sherwin"
+    ],
+    "summary": "This report focuses on the initial phase of work undertaken by King\u2019s College London and Imperial College London to investigate challenges for generation of high-order meshes for the NEPTUNE project. It extends the two-dimensional high-order mesh generation process for producing meshes for the tokamak edge region, with a particular focus on anisotropic element clustering leveraging the r-adaptation method.",
+    "keywords": [
+        "mesh",
+        "generation",
+        "tokamak edge region",
+        "r-adaptation",
+        "NEKMesh"
+    ]
+}

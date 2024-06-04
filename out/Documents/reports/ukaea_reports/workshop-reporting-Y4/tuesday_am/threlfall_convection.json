@@ -1,0 +1,14 @@
+{
+    "title": "NEPTUNE Workshop: Convection Study with Nektar++",
+    "authors": [
+        "Ed Threlfall"
+    ],
+    "summary": "This document details a study on vertical natural convection using the Nektar++ software. The study includes various parameters, heat flux results, and investigations into the capabilities of Nektar++.",
+    "keywords": [
+        "Nektar++",
+        "Convection",
+        "Heat Transfer",
+        "Numerical Simulation",
+        "Rayleigh Number"
+    ]
+}

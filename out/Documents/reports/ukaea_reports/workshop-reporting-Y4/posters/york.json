@@ -1,0 +1,19 @@
+{
+    "title": "Project NEPTUNE: Efficient Use of Current and Future High Performance Computing Hardware for Fusion Modelling",
+    "authors": [
+        "Author Name 1",
+        "Author Name 2"
+    ],
+    "summary": "The goal of Project NEPTUNE is to develop a code that can efficiently utilize current Petascale and future Exascale hardware for simulation of edge and divertor regions in fusion modelling. The approach aims to be portable between architectures while maintaining performance.",
+    "keywords": [
+        "NEPTUNE",
+        "Fusion Modelling",
+        "Exascale",
+        "High Performance Computing",
+        "GPU Accelerators",
+        "Parallel Programming Models",
+        "Performance Portability",
+        "Fluid Methods",
+        "Particle Methods"
+    ]
+}

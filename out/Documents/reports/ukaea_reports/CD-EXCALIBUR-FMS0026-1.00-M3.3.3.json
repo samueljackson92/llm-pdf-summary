@@ -1,0 +1,16 @@
+{
+    "title": "Design Patterns Evaluation report - M3.3.3",
+    "authors": [
+        "Ed Threlfall",
+        "Joseph Parker",
+        "Wayne Arter"
+    ],
+    "summary": "This report describes work for ExCALIBUR project NEPTUNE at Milestone 3.3.3. It identifies software design patterns for use by specific NEPTUNE proxyapps, with reference to existing C++ and Fortran simulation codes.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "software design patterns",
+        "C++",
+        "Fortran"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Numerical implementation of moment-kinetic electrons",
+    "authors": [
+        "M. Barnes",
+        "M. R. Hardman",
+        "S. Newton",
+        "J. Omotani",
+        "F. I. Parra"
+    ],
+    "summary": "This report describes the numerical implementation of a moment-kinetic closure for the electron fluid equations in a plasma system.",
+    "keywords": [
+        "electrostatic potential",
+        "drift kinetic approximation",
+        "moment-kinetic formulation"
+    ]
+}

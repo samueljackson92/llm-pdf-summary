@@ -1,0 +1,16 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System",
+    "authors": [
+        "Wayne Arter",
+        "Rob Akers"
+    ],
+    "summary": "This document describes equations for ExCALIBUR project NEPTUNE Proxyapps, including details on Braginskii\u2019s transport coefficients and sources of atomic and molecular radiation. It is a living document that will be updated throughout the project.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE Proxyapps",
+        "Equations",
+        "Braginskii's transport coefficients",
+        "atomic radiation",
+        "molecular radiation"
+    ]
+}

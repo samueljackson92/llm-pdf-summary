@@ -1,0 +1,14 @@
+{
+    "title": "Report on Suitability and Potential of Reduced Order Modelling (ROM) for Fusion Models",
+    "authors": [
+        "Deyu Ming",
+        "Serge Guillas"
+    ],
+    "summary": "This report explores the suitability and potential of Reduced Order Modelling (ROM) in fusion models, specifically focusing on Gaussian Process ROM for Solvers with High-dimensional Outputs.",
+    "keywords": [
+        "Reduced Order Modelling",
+        "Fusion Models",
+        "Gaussian Process",
+        "High-dimensional Outputs"
+    ]
+}

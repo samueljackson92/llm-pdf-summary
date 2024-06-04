@@ -1,0 +1,19 @@
+{
+    "title": "ExCALIBUR: Domain-Speci\ufb01c Language (DSL) and Performance Portability Assessment",
+    "authors": [
+        "Authors' Names Not Provided"
+    ],
+    "summary": "This document describes work for the ExCALIBUR project NEPTUNE at the point of Deliverable 3.2. It binds technical reports related to performance portability, specifically 'Identi\ufb01cation of Testbed Platforms and Applications' and 'Evaluation of Approaches to Performance Portability'.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "Performance Portability",
+        "DSL",
+        "Heterogeneous Systems",
+        "GPUs",
+        "CPUs",
+        "SYCL",
+        "Kokkos",
+        "RAJA"
+    ]
+}

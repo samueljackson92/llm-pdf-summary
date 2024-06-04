@@ -1,0 +1,15 @@
+{
+    "title": "High-order methods and their implementation in Nektar++",
+    "authors": [
+        "David Moxey",
+        "Chris Cantwell"
+    ],
+    "summary": "This document provides an overview of high-order finite element methods and their implementation within the Nektar++ framework. It includes a discussion on spectral/hp elements, traditional finite elements, and local-to-global mapping in the context of high-order elements.",
+    "keywords": [
+        "High-order methods",
+        "Finite element methods",
+        "Nektar++",
+        "Spectral element",
+        "hp element"
+    ]
+}

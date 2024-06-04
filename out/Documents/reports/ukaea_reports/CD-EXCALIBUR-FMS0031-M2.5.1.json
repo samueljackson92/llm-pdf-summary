@@ -1,0 +1,18 @@
+{
+    "title": "Select techniques for MOR (Model Order Reduction)",
+    "authors": [
+        "Ed Threlfall",
+        "Wayne Arter",
+        "Rob Akers"
+    ],
+    "summary": "The report describes work for ExCALIBUR project NEPTUNE at Milestone 2.5.1. It includes an overview of three important classes of Model Order Reduction (MOR) approach, and a discussion of techniques for data assimilation in the context of numerical weather prediction.",
+    "keywords": [
+        "Model Order Reduction",
+        "reduced basis methods",
+        "proper orthogonal decomposition",
+        "proper generalized decomposition",
+        "data assimilation",
+        "numerical weather prediction",
+        "NEPTUNE"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Software Support Procurement: Progress Towards DSL Adoption",
+    "authors": [
+        "Steven Wright",
+        "Edward Higgins",
+        "Christopher Ridgers",
+        "Gihan Mudalige",
+        "Zaman Lantra"
+    ],
+    "summary": "Project NEPTUNE is concerned with the development of a new code for the simulation of a next generation fusion reactor. This report documents our progress towards developing a Domain Specific Language (DSL) that can be used for Particle-in-Cell methods and presents performance results for an application developed using the proposed DSL.",
+    "keywords": [
+        "Software Support Procurement",
+        "DSL",
+        "Particle-in-Cell",
+        "NEPTUNE",
+        "Fusion Reactor"
+    ]
+}

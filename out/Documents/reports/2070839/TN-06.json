@@ -1,0 +1,18 @@
+{
+    "title": "Ion-ion model collision operators: a Krook operator and a model Fokker-Planck operator",
+    "authors": [
+        "M. R. Hardman",
+        "J. Omotani",
+        "M. Barnes",
+        "S. L. Newton",
+        "F. I. Parra"
+    ],
+    "summary": "This report explores model collision operators for ion-ion collisions, focusing on a 1D2V model of a simple two species plasma consisting of a drift kinetic model of ions and Boltzmann electrons. The study considers a model Krook operator and the initial stages of implementing the full Fokker-Planck operator.",
+    "keywords": [
+        "ion-ion collisions",
+        "Krook operator",
+        "Fokker-Planck operator",
+        "plasma",
+        "collision operators"
+    ]
+}

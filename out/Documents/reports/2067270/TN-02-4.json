@@ -1,0 +1,24 @@
+{
+    "title": "Developing an Exascale-Ready Fusion Simulation",
+    "authors": [
+        "Steven Wright",
+        "Chris Ridgers",
+        "Ed Higgins",
+        "Ben Dudson",
+        "Peter Hill",
+        "David Dickinson",
+        "Gihan Mudalige",
+        "Zaman Lantra",
+        "Ben McMillan",
+        "Tom Goffrey"
+    ],
+    "summary": "This report presents an evaluation of various approaches to Exascale Application Development for the field of Fusion Simulation. It includes evaluations of performance and portability of several applications such as Heat, TeaLeaf, miniFE, Laghos, vlp4d, CabanaPIC, and VPIC.",
+    "keywords": [
+        "Exascale",
+        "Application Development",
+        "Fusion Simulation",
+        "Performance",
+        "Portability",
+        "Evaluation"
+    ]
+}

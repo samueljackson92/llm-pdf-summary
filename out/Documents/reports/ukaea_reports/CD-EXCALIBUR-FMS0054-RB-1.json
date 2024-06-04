@@ -1,0 +1,16 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System: D3.1 Software Requirements Specification",
+    "authors": [
+        "Fulvio Militello",
+        "James Harrison"
+    ],
+    "summary": "This document provides a description of tokamak science physicists\u2019 requirements for the new UKAEA exhaust code, focusing on its ability to capture parallel and perpendicular transport of charged and neutral particles in 3D, self-consistent turbulence modelling, energy transfer physics, and more.",
+    "keywords": [
+        "ExCALIBUR",
+        "Fusion Modelling System",
+        "UKAEA",
+        "Tokamak Science",
+        "Physics Requirements",
+        "Software Requirements Specification"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "title": "2-D Model of Neutral Gas and Impurities for ExCALIBUR Fusion Modelling System",
+    "authors": [
+        "Will Saunders",
+        "James Cook",
+        "Wayne Arter"
+    ],
+    "summary": "This report describes work for the ExCALIBUR project NEPTUNE at Milestone M4.2. It discusses a Domain Specific Language (DSL) and implementation for describing particle-based algorithms that is performance portable.",
+    "keywords": [
+        "ExCALIBUR",
+        "Fusion Modelling System",
+        "Particle-based algorithms",
+        "DSL",
+        "Performance Portable"
+    ]
+}

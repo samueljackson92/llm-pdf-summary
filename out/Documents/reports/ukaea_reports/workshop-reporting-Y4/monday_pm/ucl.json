@@ -1,0 +1,18 @@
+{
+    "title": "Advanced Quantification of Uncertainties In Fusion modelling at the Exascale with Model Order Reduction (AQUIFER)",
+    "authors": [
+        "Ming, D.",
+        "Guillas, S."
+    ],
+    "summary": "This document discusses the use of model order reduction and surrogates for advanced fusion modeling, including uncertainty quantification, data assimilation, and remote job management. It also highlights the development of physics-aware and deep GPs, Bayesian calibration against observations, and the use of FPGAs for UQ.",
+    "keywords": [
+        "Fusion modeling",
+        "Model order reduction",
+        "Surrogates",
+        "Uncertainty quantification",
+        "Data assimilation",
+        "Remote job management",
+        "Physics-aware GPs"
+    ],
+    "report_id": ""
+}

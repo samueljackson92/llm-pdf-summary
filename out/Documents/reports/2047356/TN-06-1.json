@@ -1,0 +1,19 @@
+{
+    "title": "Task 1.4 Preconditioning 2D Elliptic Solvers",
+    "authors": [
+        "Ben Dudson",
+        "Peter Hill",
+        "Ed Higgins",
+        "David Dickinson",
+        "Steven Wright",
+        "David Moxey"
+    ],
+    "summary": "Explores different preconditioner approaches for a range of problems, emphasizing integration into libraries such as PETSc and testing on realistic problems. Discusses the benefits of using HYPRE preconditioners available in BOUT++.",
+    "keywords": [
+        "preconditioning",
+        "elliptic solvers",
+        "PETSc",
+        "HYPRE",
+        "BOUT++"
+    ]
+}

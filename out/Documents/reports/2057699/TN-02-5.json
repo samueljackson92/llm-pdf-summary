@@ -1,0 +1,25 @@
+{
+    "title": "Developing an Exascale-Ready Fusion Simulation",
+    "authors": [
+        "Steven Wright",
+        "Ed Higgins",
+        "Ben Dudson",
+        "Peter Hill",
+        "David Dickinson",
+        "Gihan Mudalige",
+        "Ben McMillan",
+        "Tom Goffrey"
+    ],
+    "summary": "This document discusses the approaches to Exascale Application Development, focusing on General Purpose Programming Languages, Parallel Programming Models, Software Libraries, C++ Template Libraries, Domain Specific Languages, and their evaluation methods.",
+    "keywords": [
+        "Exascale",
+        "Simulation",
+        "Fusion",
+        "Application Development",
+        "Programming Languages",
+        "Parallel Programming Models",
+        "Software Libraries",
+        "C++ Template Libraries",
+        "Domain Specific Languages"
+    ]
+}

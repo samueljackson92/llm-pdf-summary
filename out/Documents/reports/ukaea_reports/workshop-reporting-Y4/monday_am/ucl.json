@@ -1,0 +1,17 @@
+{
+    "title": "Advanced Quantification of Uncertainties In Fusion modelling at the Exascale with model order Reduction (AQUIFER)",
+    "authors": [
+        "UCL"
+    ],
+    "summary": "This document discusses the use of an Outer Product Emulator (OPE) for emulating the relationship between direction of magnetic field and temperature profile over the bottom boundary at steady state in a 2D plasma model. The OPE is shown to be efficient and universal, with domain experts able to tailor it for specific problems.",
+    "keywords": [
+        "Fusion modelling",
+        "Exascale",
+        "Model order Reduction",
+        "Outer Product Emulator",
+        "Emulation",
+        "Simulation Output",
+        "Experimental Data",
+        "Anisotropic Heat Transport"
+    ]
+}

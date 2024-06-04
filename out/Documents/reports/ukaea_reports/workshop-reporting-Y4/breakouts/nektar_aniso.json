@@ -1,0 +1,17 @@
+{
+    "title": "Anisotropic Diffusion Breakout Session: Overview and Nektar Proxyapp",
+    "authors": [
+        "Nektar++ Team",
+        "UKAEA",
+        "UCL"
+    ],
+    "summary": "Discussion on anisotropic diffusion problem, focusing on the Nektar proxyapp and UKAEA's interest in shallower angles of incidence. Suggestions for unstructured grid, decoupling AD from discontinuity, implementing CWIPI-coupled model, and future development directions.",
+    "keywords": [
+        "Anisotropic Diffusion",
+        "Nektar Proxyapp",
+        "UKAEA",
+        "UCL",
+        "Unstructured Grid",
+        "Coupling"
+    ]
+}

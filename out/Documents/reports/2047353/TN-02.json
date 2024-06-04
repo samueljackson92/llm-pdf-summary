@@ -1,0 +1,20 @@
+{
+    "title": "Linear systems of equations and preconditioners relating to the NEPTUNE Programme",
+    "authors": [
+        "V. Alexandrov",
+        "A. Lebedev",
+        "E. Sahin",
+        "S. Thorne"
+    ],
+    "summary": "This technical report provides a brief overview of preconditioners for linear systems of equations, including their motivation, classes, implementation details, and application cases.",
+    "keywords": [
+        "preconditioners",
+        "linear systems",
+        "NEPTUNE Programme",
+        "V. Alexandrov",
+        "A. Lebedev",
+        "E. Sahin",
+        "S. Thorne"
+    ],
+    "report_id": ""
+}

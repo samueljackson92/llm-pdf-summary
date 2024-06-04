@@ -1,0 +1,17 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System",
+    "authors": [
+        "James Cook",
+        "Will Saunders",
+        "Wayne Arter"
+    ],
+    "summary": "This report describes the development of a SYCL-based particle framework, NESO-Particles , for the ExCALIBUR project NEPTUNE. It details 1-D and 2-D particle models, the Particle-In-Cell (PIC) algorithm, and reproduction of known physical results.",
+    "keywords": [
+        "ExCALIBUR",
+        "Fusion Modelling System",
+        "Particle Models",
+        "Particle-In-Cell",
+        "SYCL",
+        "NESO-Particles"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "title": "Excalibur-Neptune report: BOUT++ multi\ufb02uid implementation",
+    "authors": [
+        "Ben Dudson",
+        "Peter Hill",
+        "Ed Higgins",
+        "David Dickinson",
+        "Steven Wright",
+        "David Moxey"
+    ],
+    "summary": "This report explores the use of BOUT++ as a platform to test design patterns that enable plasma simulations models to be extended from single ion species to multiple species. The aim is to evaluate code designs, explore Domain Speci\ufb01c Languages (DSLs) for specifying complex multi-\ufb02uid models, and provide a platform for further development.",
+    "keywords": [
+        "BOUT++",
+        "multi-species simulations",
+        "plasma simulations",
+        "Domain Specific Languages",
+        "DSL"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Tests for a 2D drift kinetic model for the plasma edge",
+    "authors": [
+        "M. Barnes"
+    ],
+    "summary": "This report discusses a strategy for testing a 2D drift kinetic model, using the method of manufactured solutions. The proposed method is illustrated with the drift kinetic system in the collisionless limit and with an assumed Boltzmann response for electrons.",
+    "keywords": [
+        "drift kinetic model",
+        "manufactured solution",
+        "plasma edge"
+    ]
+}

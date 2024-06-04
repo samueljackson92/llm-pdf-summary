@@ -1,0 +1,15 @@
+{
+    "title": "Implementation and scalability analysis of continuum-kinetic coupling for NEPTUNE",
+    "authors": [
+        "Josh Williams",
+        "Sue Thorne"
+    ],
+    "summary": "This report presents the implementation and scalability analysis of a continuum-kinetic simulation coupling using CWIPI for NEPTUNE. The study focuses on nuclear fusion modeling, where plasma behavior varies significantly across different regions.",
+    "keywords": [
+        "nuclear fusion",
+        "continuum-kinetic coupling",
+        "CWIPI",
+        "NEPTUNE",
+        "scalability analysis"
+    ]
+}

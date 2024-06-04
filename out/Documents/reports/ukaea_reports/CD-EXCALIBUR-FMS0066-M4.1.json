@@ -1,0 +1,15 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System: Preparation for High-dimensional Procurement",
+    "authors": [
+        "Ed Threlfall",
+        "Will Saunders"
+    ],
+    "summary": "This report describes work done for the ExCALIBUR project NEPTUNE at Milestone M4.1. It collates technical material to prepare a call for high-dimensional procurement, including a description of a simple 1d1vkinetic solver implemented within the Nektar++ spectral / hpelement framework and its application to the textbook problem of the two-stream instability.",
+    "keywords": [
+        "ExCALIBUR",
+        "Nektar++",
+        "Vlasov-Poisson system",
+        "high-dimensional procurement",
+        "two-stream instability"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System: Finite Element Models Performance",
+    "authors": [
+        "Will Saunders",
+        "Ed Threlfall",
+        "Rob Akers"
+    ],
+    "summary": "This report describes preliminary evaluations of the Nektar++-based NEPTUNE proxyapps (Nektar-Diffusion and Nektar-Driftwave) for simulating diffusion problems and Hasegawa-Wakatani equations, respectively. It also includes a discussion of Soldrake, a one-dimensional continuum model of the scrape-off layer implemented in Firedrake software.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "Nektar++",
+        "Nektar-Diffusion",
+        "Nektar-Driftwave",
+        "Firedrake",
+        "Soldrake",
+        "scrape-off layer"
+    ]
+}

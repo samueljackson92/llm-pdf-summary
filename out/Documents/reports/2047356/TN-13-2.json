@@ -1,0 +1,18 @@
+{
+    "title": "Spatially 2-D plasma model incorporating velocity space e\ufb00ects",
+    "authors": [
+        "David Moxey",
+        "Ben Dudson",
+        "Peter Hill",
+        "Ed Higgins",
+        "David Dickinson",
+        "Steven Wright"
+    ],
+    "summary": "This report outlines potential routes for implementation of the system 2-6 equations within the Nektar++ framework. It highlights steps required, where improvements should be made within Nektar++ to enable future implementation.",
+    "keywords": [
+        "plasma model",
+        "velocity space effects",
+        "Nektar++",
+        "system 2-6"
+    ]
+}

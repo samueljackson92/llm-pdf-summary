@@ -1,0 +1,28 @@
+{
+    "title": "Software Support Procurement: Hardware at the Exascale (D1.1)",
+    "authors": [
+        "Steven Wright",
+        "Chris Ridgers",
+        "Ed Higgins",
+        "Ben Dudson",
+        "Peter Hill",
+        "David Dickinson",
+        "Gihan Mudalige",
+        "Ben McMillan",
+        "Tom Goffrey"
+    ],
+    "summary": "This report discusses the hardware roadmaps for various architectures including Intel, AMD, NVIDIA, Arm, and other architectures such as IBM Power Architectures and those found primarily in China. It also compares and summarizes these architectures in the context of pre-Exascale and post-Exascale systems.",
+    "keywords": [
+        "Software Support Procurement",
+        "Hardware",
+        "Exascale",
+        "CPUs",
+        "Accelerators",
+        "Intel",
+        "AMD",
+        "NVIDIA",
+        "Arm",
+        "IBM Power Architectures",
+        "China"
+    ]
+}

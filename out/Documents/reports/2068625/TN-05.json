@@ -1,0 +1,21 @@
+{
+    "title": "Techniques and software relevant to the coupling of continuum (fluid) and particle models of plasma for NEPTUNE",
+    "authors": [
+        "Hussam Al Daas",
+        "Niall Bootland",
+        "Tyrone Rees",
+        "Andrew Sunderland",
+        "Philippa Rubin",
+        "Sue Thorne",
+        "Josh Williams"
+    ],
+    "summary": "The aim of the \u2018Fusion Modelling\u2019 use case within ExCALIBUR is to develop new algorithms, software and related infrastructure for efficient use of current Petascale and future Exascale supercomputing hardware. The report focuses on coupling together different approaches for fluid and particle-based simulations in plasma regions.",
+    "keywords": [
+        "fusion",
+        "plasma",
+        "fluid simulation",
+        "particle simulation",
+        "NEPTUNE",
+        "ExCALIBUR"
+    ]
+}

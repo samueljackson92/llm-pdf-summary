@@ -1,0 +1,17 @@
+{
+    "title": "Implicit-factorization preconditioners for NEPTUNE Programme",
+    "authors": [
+        "Maksims Abal \u00b8enkovs",
+        "Vassil Alexandrov",
+        "Anton Lebedev",
+        "Emre Sahin",
+        "Sue Thorne"
+    ],
+    "summary": "This report describes the use of BOUT++ and Nektar++ for plasma physics modeling, focusing on the incorporation of preconditioners into these libraries.",
+    "keywords": [
+        "plasma physics",
+        "preconditioners",
+        "BOUT++",
+        "Nektar++"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Software Support Procurement: Developing an Exascale-Ready Fusion Simulation",
+    "authors": [
+        "Steven Wright",
+        "Ed Higgins",
+        "Ben Dudson",
+        "Peter Hill",
+        "David Dickinson",
+        "Gihan Mudalige",
+        "Ben McMillan",
+        "Tom Goffrey"
+    ],
+    "summary": "This report discusses the evaluation methodology, approaches to Exascale application development, and applications for evaluation in the context of Project NEPTUNE. It includes a comparison of general purpose programming languages, parallel programming models, software libraries, C++ template libraries, domain-specific languages, and their performance and portability.",
+    "keywords": [
+        "Exascale",
+        "Fusion Simulation",
+        "Software Support Procurement",
+        "Performance Portability",
+        "Roofline Analysis",
+        "General Purpose Programming Languages",
+        "Parallel Programming Models",
+        "Accelerator Extensions",
+        "Software Libraries",
+        "C++ Template Libraries",
+        "Domain Specific Languages",
+        "Stencil Computations",
+        "Higher-Level DSLs"
+    ]
+}

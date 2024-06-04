@@ -1,0 +1,17 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System Year 1 Summary",
+    "authors": [
+        "Wayne Arter",
+        "Lucian Anton",
+        "Debasmita Samaddar"
+    ],
+    "summary": "This report describes work for the ExCALIBUR project NEPTUNE at Milestone 1.2.1. This End of Year One (Y1) summary report outlines the reasoning behind the Y2 plan, listing questions to be addressed, the proxyapps that will be developed, and how they will be connected to each other and exploited to steer thinking around the development of a next generation edge boundary code.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "fusion",
+        "modelling",
+        "Year 1 Summary",
+        "Y2 plan"
+    ]
+}

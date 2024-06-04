@@ -1,0 +1,20 @@
+{
+    "title": "Elliptic solvers in plasma equations: A study using BOUT++",
+    "authors": [
+        "Ben Dudson",
+        "Peter Hill",
+        "Ed Higgins",
+        "David Dickinson",
+        "Steven Wright",
+        "David Moxey"
+    ],
+    "summary": "This report gives a brief overview of the origin of elliptic problems in plasma physics models, and the tokamak geometry they are solved in. Drawing mainly on experience with BOUT++, approaches to testing of both correctness and performance, and the pros and cons of them are discussed.",
+    "keywords": [
+        "Elliptic solvers",
+        "Plasma equations",
+        "Tokamak geometry",
+        "BOUT++",
+        "Correctness tests",
+        "Performance tests"
+    ]
+}

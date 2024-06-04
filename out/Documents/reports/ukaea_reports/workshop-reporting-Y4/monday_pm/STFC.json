@@ -1,0 +1,18 @@
+{
+    "title": "Preconditioners and Time Advance Techniques for Plasma Modelling",
+    "authors": [
+        "Sue Thorne",
+        "Tyrone Rees"
+    ],
+    "summary": "This document discusses the implementation of preconditioners and time advance techniques for plasma modelling using the NEPTUNE software. It also covers predictor-corrector methods, polynomial predictor, multiple predictor, and continuation techniques.",
+    "keywords": [
+        "plasma modeling",
+        "preconditioner",
+        "time advance technique",
+        "predictor-corrector method",
+        "polynomial predictor",
+        "multiple predictor",
+        "continuation technique"
+    ],
+    "report_id": ""
+}

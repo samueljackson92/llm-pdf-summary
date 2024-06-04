@@ -1,0 +1,17 @@
+{
+    "title": "Numerical study of 1D drift kinetic models with periodic boundary conditions",
+    "authors": [
+        "M. Barnes",
+        "F. I. Parra",
+        "M. R. Hardman"
+    ],
+    "summary": "This report describes a numerical study on the solution of drift kinetic equations in plasma edge, focusing on developing and testing a novel analytical model for treating electron motion along magnetic field. The authors present a simple model for parallel plasma dynamics, their corresponding code, and compare numerical results with an analytical benchmark.",
+    "keywords": [
+        "drift kinetic models",
+        "1D simulations",
+        "electron motion",
+        "magnetic field",
+        "numerical analysis",
+        "plasma edge"
+    ]
+}

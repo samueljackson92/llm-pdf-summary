@@ -1,0 +1,15 @@
+{
+    "title": "ExCALIBUR: Selection of Techniques for Model Order Reduction",
+    "authors": [
+        "Author1",
+        "Author2"
+    ],
+    "summary": "This report provides a preliminary description of potential reduction of inputs, design size, and outputs for fusion codes. It focuses on the anisotropic heat transport proxyapp using reduced order models (ROMs) and Gaussian process surrogates (GP-ROM).",
+    "keywords": [
+        "ExCALIBUR",
+        "Model Order Reduction",
+        "Reduced Order Models",
+        "Gaussian Process Surrogates",
+        "Anisotropic Heat Transport"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "title": "ExCALIBUR: Selection of techniques for Uncertainty Quantification",
+    "authors": [
+        "String_1",
+        "String_2"
+    ],
+    "summary": "This report describes work for ExCALIBUR project NEPTUNE at Milestone 2.4.2. It focuses on the uncertainty sources in major scientific codes and introduces Forward Uncertainty Quantification (UQ) as a solution to capture epistemic and aleatoric uncertainties. The report provides recommendations for UQ methodologies, particularly non-intrusive and semi-intrusive methods for NEPTUNE.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "Uncertainty Quantification",
+        "epistemic uncertainty",
+        "aleatoric uncertainty",
+        "scientific codes",
+        "UQ methodologies"
+    ]
+}

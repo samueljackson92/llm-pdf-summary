@@ -1,0 +1,25 @@
+{
+    "title": "Fluid Referent Models - Task 0.1 Environment",
+    "authors": [
+        "Ben Dudson",
+        "Peter Hill",
+        "Ed Higgins",
+        "David Dickinson",
+        "Steven Wright",
+        "David Moxey"
+    ],
+    "summary": "This document describes activities from January to March 2021, to coordinate community activities under the ExCALIBUR-Neptune project. The deliverable for this work package was to set up the development environment (version control, continuous development/integration, automated testing and documentation services, coding standards).",
+    "keywords": [
+        "ExCALIBUR-Neptune",
+        "development environment",
+        "Slack",
+        "GitHub Organisation",
+        "ReadTheDocs",
+        "community building",
+        "Hackathons",
+        "Workshops",
+        "Testing",
+        "Correctness testing",
+        "Performance testing"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "title": "Coupling Techniques for Plasma Simulation in Fusion Modelling",
+    "authors": [
+        "Hussam Al Daas",
+        "Tyrone Rees",
+        "Andrew Sunderland",
+        "Emre Sahin",
+        "Sue Thorne"
+    ],
+    "summary": "This technical report discusses the development of new algorithms, software, and related infrastructure for the efficient use of supercomputing hardware in fusion modelling. It emphasizes the need to couple different simulation approaches for various regions of the plasma, and reviews available literature and code coupling libraries for this purpose.",
+    "keywords": [
+        "fusion modelling",
+        "supercomputing",
+        "algorithms",
+        "software",
+        "plasma simulation",
+        "coupling techniques",
+        "NEPTUNE project"
+    ]
+}

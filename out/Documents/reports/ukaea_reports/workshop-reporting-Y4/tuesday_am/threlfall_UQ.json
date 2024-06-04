@@ -1,0 +1,16 @@
+{
+    "title": "Comparison of Smooth Function Fitting: GPs vs Multivariate Adaptive Regression Splines (MARS)",
+    "authors": [
+        "Ed Threlfall",
+        "Joseph Parker"
+    ],
+    "summary": "This document compares the performance of Gaussian Processes (GPs) and Multivariate Adaptive Regression Splines (MARS) in fitting smooth functions with and without noise. It discusses the properties, fit methods, and error analysis of both techniques.",
+    "keywords": [
+        "Gaussian Processes",
+        "Multivariate Adaptive Regression Splines",
+        "Smooth Functions",
+        "Fitting",
+        "Noise"
+    ],
+    "report_id": ""
+}

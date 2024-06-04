@@ -1,0 +1,14 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System",
+    "authors": [
+        "Ed Threlfall"
+    ],
+    "summary": "The report describes work for ExCALIBUR project NEPTUNE at Mile-stone M6.2, including an application of the Nektar++ finite-element software to the classic problem of vertical natural convection.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "Nektar++",
+        "finite-element",
+        "vertical natural convection"
+    ]
+}

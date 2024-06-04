@@ -1,0 +1,17 @@
+{
+    "title": "Numerical study of moment-based drift kinetic models with periodic boundary conditions",
+    "authors": [
+        "M. Barnes",
+        "F. I. Parra",
+        "M. R. Hardman",
+        "J. Omotani"
+    ],
+    "summary": "This report presents an overview of a novel moment-based approach for solving drift kinetic equations in plasma physics, with a focus on the numerical implementation and associated challenges.",
+    "keywords": [
+        "drift kinetic equations",
+        "plasma edge",
+        "electron motion",
+        "moment-based approach",
+        "Julia"
+    ]
+}

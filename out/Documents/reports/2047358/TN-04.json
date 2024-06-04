@@ -1,0 +1,21 @@
+{
+    "title": "Approaches to Scienti\ufb01c Software Development at Exascale",
+    "authors": [
+        "Steven Wright",
+        "Ben Dudson",
+        "Peter Hill",
+        "David Dickinson",
+        "Gihan Mudalige"
+    ],
+    "summary": "Investigates the development of performance portable software for Exascale systems, discusses various approaches including OpenMP, Kokkos and RAJA, SYCL and DPC++, and offers key findings and recommendations.",
+    "keywords": [
+        "Exascale",
+        "Software Development",
+        "Performance Portable Software",
+        "OpenMP",
+        "Kokkos",
+        "RAJA",
+        "SYCL",
+        "DPC++"
+    ]
+}

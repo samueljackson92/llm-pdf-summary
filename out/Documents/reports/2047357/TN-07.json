@@ -1,0 +1,16 @@
+{
+    "title": "2D drift kinetic model with wall boundary conditions",
+    "authors": [
+        "Felix I. Parra",
+        "Michael Barnes",
+        "Michael Hardman"
+    ],
+    "summary": "This report presents a 2D drift kinetic model for a helical magnetic field, which resembles the magnetic field in the tokamak edge. The plasma is assumed to vary only in radial and z directions.",
+    "keywords": [
+        "drift kinetic model",
+        "helical magnetic field",
+        "tokamak edge",
+        "plasma",
+        "electrostatic potential"
+    ]
+}

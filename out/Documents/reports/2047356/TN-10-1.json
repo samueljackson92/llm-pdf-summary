@@ -1,0 +1,17 @@
+{
+    "title": "Development of a performance testing and aggregation tool for NEPTUNE proxy-apps",
+    "authors": [
+        "Edward Higgins",
+        "David Dickinson"
+    ],
+    "summary": "This report outlines the requirements and design of a software framework for the automated performance testing and performance regression analysis of git-managed software, specifically for the proxy apps developed as part of the ExCAL-IBUR NEPTUNE project.",
+    "keywords": [
+        "performance testing",
+        "software framework",
+        "ExCAL-IBUR NEPTUNE",
+        "proxy apps",
+        "GitHub Actions",
+        "self-hosted runners"
+    ],
+    "report_id": "2047356-TN-10-1"
+}

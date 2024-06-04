@@ -1,0 +1,18 @@
+{
+    "title": "Time Stepping Techniques and Preconditioning for Hyperbolic and Anisotropic Elliptic Problems",
+    "authors": [
+        "Hussam Al Daas",
+        "Niall Bootland",
+        "Tyrone Rees",
+        "Sue Thorne"
+    ],
+    "summary": "This report explores efficient and accurate solution methods for hyperbolic and anisotropic elliptic problems, focusing on linear systems arising from high order finite element discretizations. The study uses a range of test problems designed to mimic plasma simulation within a tokamak.",
+    "keywords": [
+        "Exascale computing",
+        "High order finite elements",
+        "Matrix-free techniques",
+        "Preconditioning",
+        "Hyperbolic PDEs",
+        "Anisotropic elliptic problems"
+    ]
+}

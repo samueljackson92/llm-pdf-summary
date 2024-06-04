@@ -1,0 +1,15 @@
+{
+    "title": "Benchmarks for basic turbulence cases - updated",
+    "authors": [
+        "Christopher Ridgers",
+        "Mike Kryjak"
+    ],
+    "summary": "This report presents benchmark solutions to the Blob2D and Hasegawa-Wakatani systems using the Hermes-3 fluid edge modeling code. The Blob2D system is simulated in detail, while the Hasegawa-Wakatani system uses an existing BOUT++ implementation.",
+    "keywords": [
+        "Benchmark",
+        "Turbulence",
+        "Blob2D",
+        "Hermes-3",
+        "BOUT++"
+    ]
+}

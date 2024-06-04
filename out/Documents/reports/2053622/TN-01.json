@@ -1,0 +1,13 @@
+{
+    "title": "Anisotropic Heat Transport",
+    "authors": [
+        "Department of Aeronautics, Imperial College London, UK",
+        "Department of Engineering, King\u2019s College London, UK"
+    ],
+    "summary": "This tutorial describes the use of the spectral/ hpelement framework Nektar++ to model heat transport in highly anisotropic domains.",
+    "keywords": [
+        "Nektar++",
+        "Anisotropic Heat Transport",
+        "Spectral/ hpelement framework"
+    ]
+}

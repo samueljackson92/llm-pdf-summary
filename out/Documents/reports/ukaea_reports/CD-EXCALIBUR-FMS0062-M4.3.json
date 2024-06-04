@@ -1,0 +1,18 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System - High-dimensional Models Complementary Ac-tions",
+    "authors": [
+        "Will Saunders",
+        "James Cook",
+        "Wayne Arter"
+    ],
+    "summary": "This report describes work for ExCALIBUR project NEPTUNE at Milestone M4.3, focusing on a 2-D model of neutral gas and impurities. It discusses inter-species interactions in the SOL, an extension to a particle implementation for global communication, and results from 2-D experiments with Particle-in-Cell algorithms.",
+    "keywords": [
+        "ExCALIBUR",
+        "Fusion Modelling System",
+        "High-dimensional Models",
+        "Complementary Actions",
+        "SOL simulation",
+        "inter-species interactions",
+        "Particle-in-Cell algorithms"
+    ]
+}

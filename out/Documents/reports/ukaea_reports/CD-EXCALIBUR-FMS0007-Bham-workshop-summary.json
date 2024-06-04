@@ -1,0 +1,23 @@
+{
+    "title": "Summary of discussion sessions at ExCALIBUR NEPTUNE workshop on 05-02-2020",
+    "authors": [
+        "Wayne Arter",
+        "Lucian Anton",
+        "Debasmita Samaddar",
+        "Martin O\u2019Brien",
+        "Rob Akers"
+    ],
+    "summary": "This document contains a short summary of the discussion sessions of the 05-02-2020 ExCALIBUR NEPTUNE workshop. The discussions focused on selecting a referent model for numerical implementation, exploring suitable numerical methods to handle low plasma density and a large number of species, and more.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "workshop",
+        "discussion sessions",
+        "physics models",
+        "gyrokinetic code",
+        "fluid model",
+        "GK code",
+        "impurities",
+        "neutrals"
+    ]
+}

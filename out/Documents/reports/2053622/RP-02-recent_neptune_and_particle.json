@@ -1,0 +1,14 @@
+{
+    "title": "Investigation of High-Order Methods within Prototype Fusion Problems",
+    "authors": [
+        "David Moxey"
+    ],
+    "summary": "This document discusses the work done during NEPTUNE, focusing on high-order mesh generation, performance analysis on modern hardware, community engagement, and CAD-exact feature representation in fusion applications using NekMesh.",
+    "keywords": [
+        "NEPTUNE",
+        "high-order methods",
+        "mesh generation",
+        "fusion applications",
+        "NekMesh"
+    ]
+}

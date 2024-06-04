@@ -1,0 +1,22 @@
+{
+    "title": "Code structure and coordination",
+    "authors": [
+        "Steven Wright",
+        "Ben Dudson",
+        "Peter Hill",
+        "David Dickinson",
+        "Gihan Mudalige"
+    ],
+    "summary": "This report discusses approaches to performance portable applications for fusion, focusing on pre- and post-Exascale hardware, software approaches, data structures, I/O and parallel file systems, risks, and recommendations.",
+    "keywords": [
+        "Code structure",
+        "Coordination",
+        "Performance",
+        "Portable applications",
+        "Fusion",
+        "CPU Architectures",
+        "Accelerator Architectures",
+        "Recon\ufb01gurable Architectures",
+        "HPC Provision in the UK"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Numerical implementation of a fluid model for electrons in a drift kinetic code",
+    "authors": [
+        "M. Barnes",
+        "M. R. Hardman",
+        "S. Newton",
+        "J. Omotani",
+        "F. I. Parra"
+    ],
+    "summary": "This report presents the implementation of electron fluid equations for a 1+1D drift kinetic system, aiming to address the limitation of using a Boltzmann response in ProxyApps. The main advantage of this approach is the avoidance of solving for the electrostatic potential itself.",
+    "keywords": [
+        "drift kinetic approximation",
+        "electrostatic potential",
+        "fluid model",
+        "electron dynamics",
+        "1+1D system"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Numerical study of 1+1D drift kinetic model with wall boundary conditions",
+    "authors": [
+        "M. Barnes",
+        "F. I. Parra",
+        "M. R. Hardman",
+        "J. Omotani"
+    ],
+    "summary": "This document outlines the numerical algorithm employed to solve parallel-to-the-field dynamics for a drift kinetic model with wall boundary conditions.",
+    "keywords": [
+        "drift kinetic model",
+        "wall boundary conditions",
+        "magnetic field lines",
+        "parallel dynamics"
+    ]
+}

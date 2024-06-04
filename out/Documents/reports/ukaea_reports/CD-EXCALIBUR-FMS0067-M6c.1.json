@@ -1,0 +1,21 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System",
+    "authors": [
+        "Wayne Arter",
+        "Ed Threlfall",
+        "Joseph Parker",
+        "Will Saunders"
+    ],
+    "summary": "This report provides a literature review designed to inform the production of Calls T/AW085/22 \u2018Spectral element procurement\u2019 and T/AW086/22 \u2018Advanced referent model procurement\u2019. It discusses challenges for computational physics, neutral species from the kinetic standpoint, and tokamak plasma. Various variational approaches to fluid dynamics are described, as well as spectral finite elements and a modal discontinuous Galerkin approach to electromagnetics.",
+    "keywords": [
+        "ExCALIBUR",
+        "Fusion Modelling System",
+        "Spectral element procurement",
+        "Advanced referent model procurement",
+        "Computational physics",
+        "Neutral species",
+        "Tokamak plasma",
+        "Finite element methods",
+        "Electromagnetics"
+    ]
+}

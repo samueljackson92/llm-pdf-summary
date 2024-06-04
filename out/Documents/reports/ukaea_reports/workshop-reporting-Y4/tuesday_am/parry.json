@@ -1,0 +1,17 @@
+{
+    "title": "Finite Element Modelling in NEPTUNE: A Summary of UKAEA Activities",
+    "authors": [
+        "Owen Parry",
+        "Will Saunders",
+        "Ed Threlfall"
+    ],
+    "summary": "This document presents various activities carried out by the UK Atomic Energy Authority (UKAEA) related to Finite Element Modelling within the NEPTUNE project. The topics covered include 1D scrape-off layer modelling, changes for NEPTUNE integration in Nektar++, Finite element exterior calculus, and more.",
+    "keywords": [
+        "NEPTUNE",
+        "Finite Element Modelling",
+        "UKAEA",
+        "Nektar++",
+        "1D SOL Proxyapp",
+        "FEEC"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "title": "Numerical study of a reduced model coupling 2D+2V drift-kinetic ions and 2D+3V kinetic neutrals in a helical magnetic field with wall boundaries",
+    "authors": [
+        "M. R. Hardman",
+        "J. Omotani",
+        "M. Barnes",
+        "F. I. Parra"
+    ],
+    "summary": "This report describes an initial investigation into the challenges associated with developing 2D edge plasma models with kinetic ion and neutral species, focusing on the implementation of model ion-neutral collision operators and simple wall boundary conditions.",
+    "keywords": [
+        "plasma physics",
+        "kinetic theory",
+        "numerical simulation",
+        "drift-kinetic",
+        "helical magnetic field",
+        "edge plasma",
+        "ion-neutral interactions"
+    ]
+}

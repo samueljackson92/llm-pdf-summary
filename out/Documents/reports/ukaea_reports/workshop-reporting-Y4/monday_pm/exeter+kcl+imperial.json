@@ -1,0 +1,25 @@
+{
+    "title": "Second phase of work in NEPTUNE",
+    "authors": [
+        "David Moxey",
+        "Mashy Green",
+        "Bin Liu",
+        "Chris Cantwell",
+        "Spencer Sherwin"
+    ],
+    "summary": "This document outlines the second phase of work on NEPTUNE, focusing on three concrete tasks: implementation optimisation for performance and scalability, development of solvers, and supporting continued development of NEPTUNE. Specifically, it discusses the challenges in mesh generation, the current progress in particle coupling, and efforts towards community development.",
+    "keywords": [
+        "NEPTUNE",
+        "phase 2",
+        "workshop",
+        "UKAEA",
+        "implementation optimization",
+        "performance",
+        "scalability",
+        "solver development",
+        "particle coupling",
+        "mesh generation",
+        "C++17",
+        "Python interface"
+    ]
+}

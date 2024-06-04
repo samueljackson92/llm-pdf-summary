@@ -1,0 +1,16 @@
+{
+    "title": "Implementation of TensorRegions library in Nektar++",
+    "authors": [
+        "Chris Cantwell",
+        "Spencer Sherwin",
+        "David Moxey"
+    ],
+    "summary": "This report outlines the initial stages of development of the TensorRegions library, extending Nektar++ to support higher-dimensional finite element spaces for solving PDEs.",
+    "keywords": [
+        "TensorRegions",
+        "Nektar++",
+        "Finite Element Method",
+        "High-Dimensional Partial Differential Equations",
+        "Vlasov-Poisson equation"
+    ]
+}

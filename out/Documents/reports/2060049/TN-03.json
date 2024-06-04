@@ -1,0 +1,19 @@
+{
+    "title": "Time Stepping Techniques and Preconditioning for Hyperbolic and Anisotropic Elliptic Problems",
+    "authors": [
+        "Hussam Al Daas",
+        "Niall Bootland",
+        "Tyrone Rees",
+        "Sue Thorne"
+    ],
+    "summary": "Explores efficient and accurate solution methods for hyperbolic and anisotropic elliptic problems using high order finite elements/spectral element codes, focusing on matrix-free linear systems. The report includes a literature and software review, comparisons of preconditioning strategies, stationary and time-dependent hyperbolic problem investigations, and conclusions.",
+    "keywords": [
+        "Time Stepping Techniques",
+        "Preconditioning",
+        "Hyperbolic PDEs",
+        "Anisotropic Elliptic Problems",
+        "High Order Finite Elements",
+        "Spectral Element Codes",
+        "Exascale Computing"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System",
+    "authors": [
+        "Wayne Arter",
+        "Matthew Barton",
+        "Owen Parry"
+    ],
+    "summary": "The report describes work for ExCALIBUR project NEPTUNE at Milestone M7c.2. Complementary actions are described which assist code-coupling and the use of benchmarking techniques and physics databases.",
+    "keywords": [
+        "ExCALIBUR",
+        "Fusion Modelling System",
+        "Code-coupling",
+        "Benchmarking Techniques",
+        "Physics Databases"
+    ]
+}

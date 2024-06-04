@@ -1,0 +1,17 @@
+{
+    "title": "A Review of Time Stepping Techniques and Preconditioning for Hyperbolic and Anisotropic Elliptic Problems",
+    "authors": [
+        "Hussam Al Daas",
+        "Niall Bootland",
+        "Tyrone Rees",
+        "Sue Thorne"
+    ],
+    "summary": "This report investigates the current state of the art in time advance techniques and preconditioners for hyperbolic partial differential equations (PDEs) and corresponding elliptic problems, focusing on methods amenable to high order finite elements/spectral elements.",
+    "keywords": [
+        "time stepping techniques",
+        "hyperbolic PDEs",
+        "anisotropic elliptic problems",
+        "high order finite elements",
+        "preconditioners"
+    ]
+}

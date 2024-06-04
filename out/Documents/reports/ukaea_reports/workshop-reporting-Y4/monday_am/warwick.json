@@ -1,0 +1,18 @@
+{
+    "title": "Low-noise moment based method: Minepoch proxyapp for performance testing",
+    "authors": [
+        "B.F. McMillan",
+        "T. Goffrey"
+    ],
+    "summary": "This document describes a low-noise moment based method using the minepoch proxyapp for performance testing. It includes details about the implicit timestepping, Maxwell's equations, Eulerian mesh, extensions to allow drift-kinetic particles, and investigations into conserving charge (Gauss Law) and sub-stepping.",
+    "keywords": [
+        "Low-noise moment based method",
+        "Minepoch proxyapp",
+        "Implicit timestepping",
+        "Maxwell's equations",
+        "Eulerian mesh",
+        "Drift-kinetic particles",
+        "Charge conservation",
+        "Sub-stepping"
+    ]
+}

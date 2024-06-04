@@ -1,0 +1,14 @@
+{
+    "title": "ExCALIBUR Verification and Benchmarks Methodology",
+    "authors": [
+        "Not specified"
+    ],
+    "summary": "This document describes the work done on the verification and benchmarking of proxyapps within the ExCALIBUR project NEPTUNE. The focus is on checking software meets its internal design specifications and understanding hardware behavior.",
+    "keywords": [
+        "ExCALIBUR",
+        "verification",
+        "benchmarking",
+        "proxyapps",
+        "software"
+    ]
+}

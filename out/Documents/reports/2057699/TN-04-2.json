@@ -1,0 +1,19 @@
+{
+    "title": "Proposal for a Particle DSL",
+    "authors": [
+        "Steven Wright",
+        "Edward Higgins",
+        "Gihan Mudalige",
+        "Zaman Lantra",
+        "Ben McMillan",
+        "Tom Goffrey"
+    ],
+    "summary": "Project NEPTUNE is concerned with the development of a new code for the simulation of a next generation fusion reactor. This report documents our progress towards developing a DSL that can be used for Particle-in-Cell (PIC) methods, embedded within the OP2 DSL.",
+    "keywords": [
+        "Particle-in-Cell method",
+        "DSL",
+        "OP2",
+        "fusion reactor",
+        "simulation code"
+    ]
+}

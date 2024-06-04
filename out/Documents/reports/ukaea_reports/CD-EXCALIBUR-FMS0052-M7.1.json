@@ -1,0 +1,16 @@
+{
+    "title": "Literature review for Call T/AW086/21: \u2018Mathematical Support for Software Implementation'",
+    "authors": [
+        "Joseph Parker",
+        "Wayne Arter",
+        "Rob Akers"
+    ],
+    "summary": "This report describes work for the ExCALIBUR project NEPTUNE at Milestone 7.1. It is a literature review performed to support Call T/AW086/21, focusing on suitable numerical algorithms for future Exascale edge plasma codes.",
+    "keywords": [
+        "ExCALIBUR",
+        "software implementation",
+        "numerical algorithms",
+        "Exascale",
+        "plasma modeling"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System: Progress Report on Mesh Generation and Solvers",
+    "authors": [
+        "Ed Threlfall",
+        "Wayne Arter",
+        "David Moxey",
+        "Chris Cantwell"
+    ],
+    "summary": "This report details the progress made in the ExCALIBUR project NEPTUNE at Milestone 2.2.1, focusing on mesh generation, solvers, and training work. The report also discusses the technical challenges and potential solutions in surface mesh generation.",
+    "keywords": [
+        "ExCALIBUR",
+        "Fusion Modelling System",
+        "mesh generation",
+        "solvers",
+        "technical progress"
+    ]
+}

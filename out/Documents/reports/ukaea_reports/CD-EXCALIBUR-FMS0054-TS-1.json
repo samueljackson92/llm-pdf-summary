@@ -1,0 +1,22 @@
+{
+    "title": "ExCALIBUR D3.1 Software Requirements Specification",
+    "authors": [
+        "Joseph Parker",
+        "Wayne Arter",
+        "Fulvio Militello",
+        "James Harrison"
+    ],
+    "summary": "This document provides a response to Tokamak Science\u2019s exhaust code specification document. It forms part of the technical specification (TS).",
+    "keywords": [
+        "ExCALIBUR",
+        "Software Requirements Specification",
+        "Tokamak Science",
+        "Exhaust Code",
+        "Parallel and Perpendicular Transport",
+        "Turbulence Modeling",
+        "Energy Transfer Physics",
+        "ITER",
+        "MAST-U",
+        "JT60-SA"
+    ]
+}

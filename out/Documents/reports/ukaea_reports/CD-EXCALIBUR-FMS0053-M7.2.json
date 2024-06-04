@@ -1,0 +1,18 @@
+{
+    "title": "ExCALIBUR: Code coupling and benchmarking",
+    "authors": [
+        "Joseph Parker",
+        "Wayne Arter",
+        "Will Saunders",
+        "James Cook"
+    ],
+    "summary": "This report discusses work performed under the Code Structure and Coordination work package of the ExCALIBUR project, focusing on code coupling and benchmarking. The report also highlights the current trends in HPC systems, including increased on-node parallelism, adoption of accelerators, innovations in memory technologies, and the impact of these trends on performance.",
+    "keywords": [
+        "ExCALIBUR",
+        "Code Structure and Coordination",
+        "HPC systems",
+        "code coupling",
+        "benchmarking",
+        "hardware landscape"
+    ]
+}

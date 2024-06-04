@@ -1,0 +1,19 @@
+{
+    "title": "NEPTUNE Particle Usage: High-Level Interface and Efficient Implementation",
+    "authors": [
+        "Will Saunders",
+        "UKAEA"
+    ],
+    "summary": "This document discusses the NEPTUNE project, focusing on particle use cases, core components, and an efficient particle implementation. It highlights the need for a high-level interface for domain specialists and computational scientists while maintaining performance portability.",
+    "keywords": [
+        "NEPTUNE",
+        "particles",
+        "plasma",
+        "neutrals",
+        "impurities",
+        "PIC",
+        "efficiency",
+        "high-level interface",
+        "computational science"
+    ]
+}

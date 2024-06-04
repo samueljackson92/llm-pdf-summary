@@ -1,0 +1,18 @@
+{
+    "title": "A kinetic model of ions and neutrals with wall boundary conditions in edge plasmas",
+    "authors": [
+        "M. Barnes",
+        "M. R. Hardman",
+        "J. Omotani",
+        "F. I. Parra",
+        "S. L. Newton"
+    ],
+    "summary": "This document describes a minimal model for investigating kinetic edge physics in Tokamak Plasmas, focusing on drift-kinetic equations, wall boundary conditions, and moment-based evolution.",
+    "keywords": [
+        "Tokamak Plasmas",
+        "Kinetic Edge Physics",
+        "Drift Kinetic Equations",
+        "Wall Boundary Conditions",
+        "Moment-Based Evolution"
+    ]
+}

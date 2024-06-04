@@ -1,0 +1,22 @@
+{
+    "title": "Excalibur-Neptune report: Considerations for 1D1V models",
+    "authors": [
+        "Ben Dudson",
+        "Peter Hill",
+        "Ed Higgins",
+        "David Dickinson",
+        "Steven Wright",
+        "David Moxey"
+    ],
+    "summary": "This report documents some of the work around tasks 3.1, 3.2 and 3.3 looking at the Vlasov-Ampere system in a periodic 1D+1V domain. A number of test cases are defined and some of the considerations around phase-space representations and time integration are discussed.",
+    "keywords": [
+        "Excalibur-Neptune",
+        "report",
+        "Vlasov-Ampere system",
+        "1D1V domain",
+        "test cases",
+        "phase-space",
+        "time integration"
+    ],
+    "report_id": ""
+}

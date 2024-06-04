@@ -1,0 +1,18 @@
+{
+    "title": "Plasma multiphysics model",
+    "authors": [
+        "Michael Barnes",
+        "M. R. Hardman",
+        "J. Omotani",
+        "S. Newton",
+        "F. I. Parra"
+    ],
+    "summary": "This document discusses the limitations, unresolved numerical issues, and proposed improvements for a plasma multiphysics model. Topics include more realistic magnetic field geometry, dynamically evolved electrons, collisions between charged particles, and miscellaneous related issues.",
+    "keywords": [
+        "plasma physics",
+        "multiphysics model",
+        "magnetic fields",
+        "electron dynamics",
+        "collisions"
+    ]
+}

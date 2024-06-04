@@ -1,0 +1,16 @@
+{
+    "title": "NEPTUNE Workshop - Physical data",
+    "authors": [
+        "Wayne Arter",
+        "Matthew Barton",
+        "Martin O\u2019Mullane"
+    ],
+    "summary": "Discussion on solving rate equations for neutronics and plasma radiation, focusing on the Bateman equations and their application in various fields.",
+    "keywords": [
+        "neutronics",
+        "Bateman equations",
+        "plasma radiation",
+        "rate equations",
+        "UQ"
+    ]
+}

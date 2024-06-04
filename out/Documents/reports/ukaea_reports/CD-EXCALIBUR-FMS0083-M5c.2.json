@@ -1,0 +1,16 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System: Uncertainty Quantification Complementary Actions",
+    "authors": [
+        "Wayne Arter",
+        "Ed Threlfall",
+        "Owen Parry"
+    ],
+    "summary": "This report describes work for the ExCALIBUR project NEPTUNE at Milestone M5c.2. It outlines work towards uncertainty quantification, reduced-order modelling, and data assimilation for NEPTUNE. An analysis of the accuracy of numerical simulations of advection-diffusion problems is presented.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "Uncertainty Quantification",
+        "Reduced-Order Modelling",
+        "Data Assimilation"
+    ]
+}

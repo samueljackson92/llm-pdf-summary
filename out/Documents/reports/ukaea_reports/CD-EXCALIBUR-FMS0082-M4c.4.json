@@ -1,0 +1,17 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System: Progress Towards the Implementation of a 3-D Turbulence Code Tightly Coupled to Kinetic Neutrals",
+    "authors": [
+        "Will Saunders",
+        "James Cook"
+    ],
+    "summary": "This report describes progress made towards the implementation of a 3-D turbulence code tightly coupled to kinetic neutrals. The work includes the ParticleLoop implementation in NESO-Particles, the parallel dynamics of the Hasegawa-Wakatani model, and the recombination reaction kernel for neutral particles.",
+    "keywords": [
+        "ExCALIBUR",
+        "Fusion Modelling System",
+        "3-D Turbulence Code",
+        "Kinetic Neutrals",
+        "ParticleLoop",
+        "Hasegawa-Wakatani Model",
+        "Recombination Reaction Kernel"
+    ]
+}

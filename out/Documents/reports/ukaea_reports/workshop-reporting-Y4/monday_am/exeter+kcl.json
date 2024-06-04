@@ -1,0 +1,19 @@
+{
+    "title": "Numerical and computational performance of spectral element methods for prototype fusion problems",
+    "authors": [
+        "David Moxey",
+        "Mashy Green",
+        "Bin Liu",
+        "Chris Cantwell",
+        "Spencer Sherwin"
+    ],
+    "summary": "This document discusses the application of high-order methods within prototype fusion problems, focusing on high-order mesh generation, performance on modern hardware, and community engagement with NEPTUNE.",
+    "keywords": [
+        "High-order methods",
+        "Prototype fusion problems",
+        "Spectral element methods",
+        "Mesh generation",
+        "Exascale platforms",
+        "NEPTUNE"
+    ]
+}

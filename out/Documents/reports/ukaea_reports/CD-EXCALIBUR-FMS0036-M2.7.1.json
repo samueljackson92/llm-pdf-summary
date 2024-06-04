@@ -1,0 +1,18 @@
+{
+    "title": "ExCALIBUR: Identification of suitable preconditioner techniques",
+    "authors": [
+        "Ed Threlfall",
+        "Wayne Arter",
+        "Vassil Alexandrov",
+        "Sue Thorne"
+    ],
+    "summary": "This report describes work for the ExCALIBUR project NEPTUNE at Milestone 2.7.1. It discusses a meeting to form a report on technical progress, and focuses on preconditioner techniques.",
+    "keywords": [
+        "ExCALIBUR",
+        "preconditioner",
+        "techniques",
+        "NEPTUNE",
+        "Milestone",
+        "meeting"
+    ]
+}

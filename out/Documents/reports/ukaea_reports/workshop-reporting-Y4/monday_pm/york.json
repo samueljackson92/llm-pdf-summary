@@ -1,0 +1,24 @@
+{
+    "title": "FM-WP4 Code Structure and Coordination: Software Support Procurement",
+    "authors": [
+        "Steven Wright",
+        "Ben Dudson",
+        "Peter Hill",
+        "David Dickinson",
+        "Edward Higgins",
+        "Chris Ridgers",
+        "Gihan Mudalige",
+        "Tom Goffrey",
+        "Ben McMillan"
+    ],
+    "summary": "This project focuses on the code structure and coordination of a software support procurement. It involves three main deliverables: state-of-the-art reviews, demonstrator implementations, and edge physics consultancy.",
+    "keywords": [
+        "FM-WP4",
+        "Software Support Procurement",
+        "Code Structure",
+        "Coordination",
+        "State-of-the-art Reviews",
+        "Demonstrator Implementations",
+        "Edge Physics Consultancy"
+    ]
+}

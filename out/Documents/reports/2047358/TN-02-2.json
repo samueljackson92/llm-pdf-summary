@@ -1,0 +1,17 @@
+{
+    "title": "Identi\ufb01cation of Testbed Platforms and Applications",
+    "authors": [
+        "Steven Wright",
+        "Ben Dudson",
+        "Peter Hill",
+        "David Dickinson",
+        "Gihan Mudalige"
+    ],
+    "summary": "This report outlines the focus, methodology, and objectives of a project aimed at evaluating hardware platforms and software development methodologies for the development of a plasma-fusion application.",
+    "keywords": [
+        "hardware landscape",
+        "software development",
+        "performance portability",
+        "Pennycook et al. metric"
+    ]
+}

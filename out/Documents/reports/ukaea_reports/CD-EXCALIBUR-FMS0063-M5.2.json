@@ -1,0 +1,14 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System: Selection of Techniques for Uncertainty Quantification",
+    "authors": [
+        "Wayne Arter",
+        "Joseph Parker"
+    ],
+    "summary": "This report discusses work for the ExCALIBUR project NEPTUNE, focusing on alternative approaches to the production of surrogates, comparing adaptive spline fitting and Gaussian processes.",
+    "keywords": [
+        "ExCALIBUR",
+        "Uncertainty Quantification",
+        "Spline Fitting",
+        "Gaussian Processes"
+    ]
+}

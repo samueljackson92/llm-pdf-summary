@@ -1,0 +1,19 @@
+{
+    "title": "Excalibur-Neptune report: Performance considerations for non-intrusive uncertainty quanti\ufb01cation and the influence of the boundary",
+    "authors": [
+        "Ben Dudson",
+        "Peter Hill",
+        "Ed Higgins",
+        "David Dickinson",
+        "Steven Wright",
+        "David Moxey"
+    ],
+    "summary": "This report summarizes performance considerations relevant to the use of non-intrusive uncertainty quanti\ufb01cation tools such as the easyvvuq package. It explores minimizing the number of simulations, effective use of workflow management tools, and the number of moments required for converged uncertainty measures near the boundary.",
+    "keywords": [
+        "non-intrusive uncertainty quantification",
+        "easyvvuq",
+        "performance considerations",
+        "boundary conditions",
+        "convergence"
+    ]
+}

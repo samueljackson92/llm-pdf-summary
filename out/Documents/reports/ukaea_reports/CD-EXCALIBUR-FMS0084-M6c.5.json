@@ -1,0 +1,17 @@
+{
+    "title": "ExCALIBUR: Complementary actions. Code integration, acceptance and operation",
+    "authors": [
+        "Ed Threlfall",
+        "Owen Parry",
+        "Chris MacMackin"
+    ],
+    "summary": "This report describes work for ExCALIBUR project NEPTUNE at Mile-stone M6c.5. It provides material related to the implementation of 3-D plasma turbulence equations using finite element modelling (FEM) techniques.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "Fusion Modelling System",
+        "Finite Element Modelling",
+        "Firedrake",
+        "Nektar++"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System: Development of a 3-D Integrated Particle and Continuum Model",
+    "authors": [
+        "James Cook",
+        "Will Saunders",
+        "Owen Parry"
+    ],
+    "summary": "This report describes the development of an integrated particle and continuum model in 3d3v for the ExCALIBUR project NEPTUNE. The model represents plasma as a fluid using Nektar++ and populates the 3-D 3-V phase space with neutral particles via the SYCL-enabled NESO-Particles library.",
+    "keywords": [
+        "ExCALIBUR",
+        "3-D integrated particle and continuum model",
+        "Nektar++",
+        "SYCL",
+        "NESO",
+        "Hasegawa-Wakatani equations"
+    ]
+}

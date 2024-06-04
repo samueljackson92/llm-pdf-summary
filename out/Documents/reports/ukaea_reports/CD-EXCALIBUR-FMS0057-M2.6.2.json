@@ -1,0 +1,14 @@
+{
+    "title": "Fluid Referent Models for ExCALIBUR Project NEPTUNE",
+    "authors": [
+        "Not Provided"
+    ],
+    "summary": "This report describes work on the ExCALIBUR project NEPTUNE at Milestone 2.6.2, including documents related to infrastructure establishment, elliptic solvers, and fluid models within the BOUT++ software framework. The reports are living documents available from the NEPTUNE github repository.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "Fluid Referent Models",
+        "Elliptic Solvers",
+        "BOUT++"
+    ]
+}

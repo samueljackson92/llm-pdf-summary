@@ -1,0 +1,16 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System Specification Website",
+    "authors": [
+        "Wayne Arter",
+        "Ed Threlfall",
+        "Joseph Parker",
+        "Will Saunders"
+    ],
+    "summary": "This report describes the development of a specification website for the ExCALIBUR project NEPTUNE at Milestone 3.1. The site serves as a living document, requiring further amendments as details are agreed and features become more refined.",
+    "keywords": [
+        "ExCALIBUR",
+        "Fusion Modelling System",
+        "Specification Website",
+        "Software Development"
+    ]
+}

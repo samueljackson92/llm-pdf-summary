@@ -1,0 +1,18 @@
+{
+    "title": "Update on state of the art in edge modelling",
+    "authors": [
+        "M. Barnes",
+        "M. R. Hardman",
+        "J. Omotani",
+        "F. I. Parra"
+    ],
+    "summary": "This report provides an update to a previous report on the physics parameters and modeling approaches for the plasma edge in magnetic confinement fusion, focusing on recent progress in edge modelling.",
+    "keywords": [
+        "edge modelling",
+        "plasma edge",
+        "magnetic confinement fusion",
+        "neutral dynamics",
+        "transport parallel to the magnetic field",
+        "turbulent dynamics"
+    ]
+}

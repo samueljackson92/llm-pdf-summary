@@ -1,0 +1,20 @@
+{
+    "title": "Anisotropic high-order mesh generation for internal flow features using embedded CAD curves",
+    "authors": [
+        "B. Liu",
+        "M. D. Green",
+        "C. D. Cantwell",
+        "D. Moxey",
+        "S. J. Sherwin"
+    ],
+    "summary": "This document discusses the development of efficient high-order spectral/hp element solvers and proxyapps for the NEPTUNE project, with a focus on generating high-quality meshes suited to highly anisotropic physics found in fusion simulations.",
+    "keywords": [
+        "mesh generation",
+        "high-order simulations",
+        "anisotropy",
+        "fusion applications",
+        "Nektar++",
+        "SIMD"
+    ],
+    "report_id": ""
+}

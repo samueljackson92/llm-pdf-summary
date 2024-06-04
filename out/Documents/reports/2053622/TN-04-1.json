@@ -1,0 +1,18 @@
+{
+    "title": "Evaluation of preconditioners for matrix-free operations in Nektar++ for anisotropic heat transport",
+    "authors": [
+        "Bin Liu",
+        "Chris Cantwell",
+        "Spencer Sherwin",
+        "Mashy Green",
+        "David Moxey"
+    ],
+    "summary": "This report evaluates the performance of preconditioners available in Nektar++ for solving the two-dimensional steady anisotropic thermal conduction problem. The evaluation is based on iteration count and computational cost.",
+    "keywords": [
+        "preconditioner",
+        "Nektar++",
+        "anisotropic heat transport",
+        "thermal conduction",
+        "plasma physics"
+    ]
+}

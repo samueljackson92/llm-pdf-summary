@@ -1,0 +1,27 @@
+{
+    "title": "Approaches to Performance Portable Applications for Fusion",
+    "authors": [
+        "Steven Wright",
+        "Ben Dudson",
+        "Peter Hill",
+        "David Dickinson",
+        "Gihan Mudalige"
+    ],
+    "summary": "This report discusses the challenges and solutions in developing portable performance applications for fusion, focusing on pre- and post-Exascale hardware, software approaches, data structures, I/O, parallel file systems, and risks and recommendations.",
+    "keywords": [
+        "Performance Portable Applications",
+        "Fusion",
+        "CPU Architectures",
+        "Accelerator Architectures",
+        "Reconfigurable Architectures",
+        "HPC Provision",
+        "Software Approaches",
+        "General Purpose Programming Languages",
+        "Parallel Programming Models",
+        "C++ Template Libraries",
+        "Domain Specific Languages",
+        "Data Structures",
+        "I/O",
+        "Parallel File Systems"
+    ]
+}

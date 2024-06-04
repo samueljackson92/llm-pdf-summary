@@ -1,0 +1,17 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System",
+    "authors": [
+        "Ed Threlfall",
+        "Joseph Parker",
+        "Will Saunders",
+        "Wayne Arter"
+    ],
+    "summary": "This report collates technical material used to inform the preparation of the call for procurement of support for Uncertainty Quanti\ufb01cation (UQ). The work performed primarily consisted of collating material produced internally and by external grantees, plus hands-on exploration of sampling techniques, construction of surrogates and study of dimensionally reduced models.",
+    "keywords": [
+        "ExCALIBUR",
+        "Fusion Modelling System",
+        "Uncertainty Quantification",
+        "UQ",
+        "NEPTUNE"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "title": "1D drift kinetic models with wall boundary conditions",
+    "authors": [
+        "Felix I. Parra",
+        "Michael Barnes",
+        "Michael Hardman"
+    ],
+    "summary": "This report discusses a minimal 1D drift kinetic model with wall boundary conditions that represents open field lines. The basic drift kinetic model is presented in section 2, and the wall boundary conditions are discussed in section 3.",
+    "keywords": [
+        "drift kinetics",
+        "plasma physics",
+        "electrostatic fields",
+        "magnetic fields",
+        "wall boundary conditions"
+    ]
+}

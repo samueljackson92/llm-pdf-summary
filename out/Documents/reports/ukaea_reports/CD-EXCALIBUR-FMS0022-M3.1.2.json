@@ -1,0 +1,17 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System Milestone 3.1.2 Report",
+    "authors": [
+        "Wayne Arter",
+        "Ed Threlfall",
+        "Joseph Parker",
+        "Stan Pamela"
+    ],
+    "summary": "This report investigates the state-of-art in software design for multiphysics applications potentially relevant to the ExCALIBUR project NEPTUNE, focusing on 'software frameworks'. The resulting code is intended to build a wider user and developer community.",
+    "keywords": [
+        "ExCALIBUR",
+        "Fusion Modelling System",
+        "Software Design",
+        "Multiphysics",
+        "Frameworks"
+    ]
+}

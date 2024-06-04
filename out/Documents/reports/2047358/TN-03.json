@@ -1,0 +1,18 @@
+{
+    "title": "Code structure and coordination",
+    "authors": [
+        "Steven Wright",
+        "Ben Dudson",
+        "Peter Hill",
+        "David Dickinson",
+        "Gihan Mudalige"
+    ],
+    "summary": "The focus of the code structure and coordination work package is to establish a series of \u2018best practices\u2019 on how to develop simulation applications for Exascale systems that are able to obtain high performance on each architecture (i.e. are performance portable) without significant manual porting efforts.",
+    "keywords": [
+        "performance portable",
+        "code structure",
+        "coordination",
+        "Exascale systems",
+        "simulation applications"
+    ]
+}

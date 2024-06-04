@@ -1,0 +1,15 @@
+{
+    "title": "Physics in the Edge of Fusion Devices",
+    "authors": [
+        "Felix I. Parra",
+        "Michael Barnes",
+        "Michael Hardman"
+    ],
+    "summary": "This report presents a brief overview of the current state of fusion device edge modeling, focusing on the known problems of fluid models without much emphasis on their many successes.",
+    "keywords": [
+        "fusion devices",
+        "edge modeling",
+        "kinetic models",
+        "fluid models"
+    ]
+}

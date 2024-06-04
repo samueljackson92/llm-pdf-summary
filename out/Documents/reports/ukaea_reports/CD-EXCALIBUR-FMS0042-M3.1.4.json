@@ -1,0 +1,19 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System: Specification and Integration of Scientific Software",
+    "authors": [
+        "Ed Threlfall",
+        "Wayne Arter"
+    ],
+    "summary": "This report describes work for the ExCALIBUR project NEPTUNE at Milestone M3.1.4. It outlines guidelines for a generic open-source development of scientific modeling software by a community, focusing on practical points and important issues that need early agreement.",
+    "keywords": [
+        "ExCALIBUR",
+        "Fusion Modelling System",
+        "open-source",
+        "scientific software",
+        "development",
+        "collaboration",
+        "gitversion",
+        "C++",
+        "Object Fortran"
+    ]
+}

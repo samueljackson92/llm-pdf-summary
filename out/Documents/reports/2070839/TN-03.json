@@ -1,0 +1,17 @@
+{
+    "title": "A reduced electron model for testing plasma dynamics for closed field lines",
+    "authors": [
+        "M. Barnes",
+        "M. R. Hardman",
+        "S. Newton",
+        "J. Omotani",
+        "F. I. Parra"
+    ],
+    "summary": "This report outlines a collisional model for electron dynamics within the drift kinetic approximation, which requires the calculation of the electrostatic potential as previously shown in report 2047357-TN-09-01.",
+    "keywords": [
+        "plasma",
+        "electron model",
+        "drift kinetic",
+        "electrostatic potential"
+    ]
+}

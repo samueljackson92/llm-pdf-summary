@@ -1,0 +1,18 @@
+{
+    "title": "Overview of Slot Convection Problem and UCL Tools for Uncertainty Quantification",
+    "authors": [
+        "Ed Threlfall (Chair)",
+        "Peter Challenor",
+        "Rob Akers"
+    ],
+    "summary": "This document provides an overview of the slot convection problem and discusses the use of UCL tools for uncertainty quantification. The discussion covers parameter sweep for 2D problems, the minimum number of runs required, the approach to finding regimes in Nektar simulations, potential sources of differences between Smallab and Nektar, and considerations in constructing surrogates.",
+    "keywords": [
+        "slot convection",
+        "uncertainty quantification",
+        "UCL tools",
+        "Nektar",
+        "Smallab",
+        "regime boundaries",
+        "surrogate modeling"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "title": "ExCALIBUR D3.4: Documenting Software Development for NEPTUNE",
+    "authors": [
+        "Ed Threlfall",
+        "Wayne Arter",
+        "Joseph Parker",
+        "Will Saunders"
+    ],
+    "summary": "This report surveys the textbook and standards literature regarding documents that should be produced as part of a major software development. The focus is on documents that should be produced before development starts, and on living documents that may require amendment as the development proceeds.",
+    "keywords": [
+        "ExCALIBUR",
+        "software development",
+        "NEPTUNE",
+        "documentation",
+        "open source"
+    ]
+}

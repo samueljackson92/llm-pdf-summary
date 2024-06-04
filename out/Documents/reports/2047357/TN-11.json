@@ -1,0 +1,14 @@
+{
+    "title": "2D drift kinetics in a helical field with a 'separatrix'",
+    "authors": [
+        "Felix I. Parra",
+        "Michael Barnes",
+        "Michael Hardman"
+    ],
+    "summary": "This report discusses how to connect 2D drift kinetic models with wall boundary conditions and periodic boundary conditions when considering a situation where the boundary conditions switch from being periodic to being wall boundary conditions at some radial position r=rs, which is an effective 'separatrix'.",
+    "keywords": [
+        "drift kinetics",
+        "helical field",
+        "separatrix"
+    ]
+}

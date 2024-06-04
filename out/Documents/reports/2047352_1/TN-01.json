@@ -1,0 +1,16 @@
+{
+    "title": "Review of methods and toolkits for uncertainty quantification of single and coupled model applications",
+    "authors": [
+        "Maxime Vassaux",
+        "Wouter Edeling",
+        "Peter V. Coveney"
+    ],
+    "summary": "The present report draws a concise review of uncertainty quantificat ion methods classified according to their intrusiveness. Attentions is paid to non -intrusive and later semi -intrusive methods which enable to define procedures which are independent of the models equations, thus enabling full separation of concern. The rep ort also presents up-to-date toolkits, libraries and pieces of software that enable the high -throughput ensemble -based computations required for verification, validation and uncertainty quantification.",
+    "keywords": [
+        "uncertainty quantification",
+        "methods",
+        "toolkits",
+        "computational simulations",
+        "fusion"
+    ]
+}

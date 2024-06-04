@@ -1,0 +1,22 @@
+{
+    "title": "Code structure and coordination",
+    "authors": [
+        "Steven Wright",
+        "Ben Dudson",
+        "Peter Hill",
+        "David Dickinson",
+        "Gihan Mudalige"
+    ],
+    "summary": "This report evaluates several approaches to performance portability of simulation applications for Exascale systems, including TeaLeaf, miniFE, Laghos, CabanaPIC, VPIC, and EMPIRE-PIC.",
+    "keywords": [
+        "simulation applications",
+        "Exascale systems",
+        "performance portable code",
+        "TeaLeaf",
+        "miniFE",
+        "Laghos",
+        "CabanaPIC",
+        "VPIC",
+        "EMPIRE-PIC"
+    ]
+}

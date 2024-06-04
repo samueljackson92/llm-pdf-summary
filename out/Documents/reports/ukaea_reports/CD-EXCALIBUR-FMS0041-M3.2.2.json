@@ -1,0 +1,17 @@
+{
+    "title": "Two Workshops on Domain-Specific Languages for ExCALIBUR Fusion Modelling System",
+    "authors": [
+        "Ed Threlfall",
+        "Wayne Arter",
+        "Joseph Parker",
+        "Will Saunders"
+    ],
+    "summary": "This report summarizes the outcome of two workshops on Domain-Specific Languages (DSLs) organized by UKAEA. The aim was to improve understanding and identify the best way DSL(s) could be employed by NEPTUNE, focusing on promoting growth of a community around the software.",
+    "keywords": [
+        "ExCALIBUR",
+        "Domain-Specific Languages",
+        "Workshops",
+        "NEPTUNE",
+        "UKAEA"
+    ]
+}

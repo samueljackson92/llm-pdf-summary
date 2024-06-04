@@ -1,0 +1,16 @@
+{
+    "title": "Numerical study of moment-based drift kinetic model with periodic BCs",
+    "authors": [
+        "M. Barnes",
+        "F. I. Parra",
+        "M. R. Hardman",
+        "J. Omotani"
+    ],
+    "summary": "This report describes the numerical implementation and testing of a novel analytical model and associated numerical algorithm for solving drift kinetic equations with a focus on treating the motion of electrons along the magnetic field.",
+    "keywords": [
+        "drift kinetic equations",
+        "electron motion",
+        "magnetic field",
+        "Julia programming language"
+    ]
+}

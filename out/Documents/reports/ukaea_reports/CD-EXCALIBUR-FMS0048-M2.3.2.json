@@ -1,0 +1,14 @@
+{
+    "title": "Options for Particle Algorithms",
+    "authors": [
+        "Not specified"
+    ],
+    "summary": "This report describes a Particle In Cell (PIC) method for the continuity equation of a single species distribution function f. The focus is on methods to represent and evolve g using particle based properties.",
+    "keywords": [
+        "Particle Algorithms",
+        "Particle In Cell (PIC)",
+        "Continuity Equation",
+        "Distribution Function",
+        "Maxwell-Boltzmann Distribution"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "title": "Co-design of PIC methods and other elements of NEPTUNE",
+    "authors": [
+        "Ben F McMillan"
+    ],
+    "summary": "This report discusses integrating Particle-In-Cell (PIC) methods with other components of the NEPTUNE project, highlighting interactions with the gyrokinetics work package and the spatial representation based on finite elements.",
+    "keywords": [
+        "Particle-In-Cell methods",
+        "NEPTUNE project",
+        "gyrokinetics",
+        "finite elements"
+    ]
+}

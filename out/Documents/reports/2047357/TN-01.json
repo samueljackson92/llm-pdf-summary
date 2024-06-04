@@ -1,0 +1,15 @@
+{
+    "title": "1D drift kinetic models with periodic boundary conditions",
+    "authors": [
+        "Felix I. Parra",
+        "Michael Barnes",
+        "Michael Hardman"
+    ],
+    "summary": "This report proposes 1D drift kinetic equations to test the possibility of extracting low order moments from the distribution functions for implicit methods. The model has periodic boundary conditions, suitable for the closed field line region of the edge.",
+    "keywords": [
+        "drift kinetics",
+        "periodic boundary conditions",
+        "plasma",
+        "distribution functions"
+    ]
+}

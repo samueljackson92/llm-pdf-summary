@@ -1,0 +1,15 @@
+{
+    "title": "Implementing distributed-memory in the 2D-3V drift-kinetic edge code",
+    "authors": [
+        "M. R. Hardman",
+        "J. Omotani",
+        "M. Barnes"
+    ],
+    "summary": "This report describes the progress towards implementing the drift-kinetic model in a 2D-3V simulation, focusing on code development for testing the model implementation. The source code can be found here: https://github.com/mabarnes/moment_kinetics.",
+    "keywords": [
+        "drift-kinetic",
+        "simulation",
+        "code development",
+        "distributed-memory MPI"
+    ]
+}

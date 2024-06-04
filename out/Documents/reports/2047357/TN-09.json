@@ -1,0 +1,14 @@
+{
+    "title": "2D drift kinetic model with periodic boundary conditions",
+    "authors": [
+        "Felix I. Parra",
+        "Michael Barnes",
+        "Michael Hardman"
+    ],
+    "summary": "This report presents a modified 2D drift kinetic model for a helical magnetic field with periodic boundary conditions, as opposed to the wall boundary conditions in a previous report.",
+    "keywords": [
+        "drift kinetic model",
+        "helical magnetic field",
+        "periodic boundary conditions"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "title": "Survey of code generators and their suitability for NEPTUNE",
+    "authors": [
+        "Ed Threlfall",
+        "Wayne Arter"
+    ],
+    "summary": "The report describes work for the ExCALIBUR project NEPTUNE at Milestone 3.2.1. It discusses the status of programming models and code generators for various node architectures, focusing on performance, usability, maintainability, and availability.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "code generators",
+        "programming models",
+        "performance"
+    ]
+}

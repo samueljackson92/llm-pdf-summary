@@ -1,0 +1,14 @@
+{
+    "title": "NEPTUNE NEKTAR++ AND ANISOTROPIC DIFFUSION (BREAKOUT)",
+    "authors": [
+        "Ed Threlfall"
+    ],
+    "summary": "This document discusses heat transfer using the Nektar++ / Firedrake proxyapp and anisotropic diffusion. It includes examples of heat transfer with arbitrary diffusion tensor, a singular case of totally anisotropic diffusion, and comparisons between proxyapps.",
+    "keywords": [
+        "heat transfer",
+        "Nektar++",
+        "Firedrake",
+        "anisotropic diffusion",
+        "singular perturbation problem"
+    ]
+}

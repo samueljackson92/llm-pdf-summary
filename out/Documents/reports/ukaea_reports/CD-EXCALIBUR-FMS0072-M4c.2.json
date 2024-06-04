@@ -1,0 +1,17 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System",
+    "authors": [
+        "James Cook",
+        "Will Saunders",
+        "Owen Parry"
+    ],
+    "summary": "The report describes work for ExCALIBUR project NEPTUNE at Milestone M4c.2. An integrated 2D particle and continuum model has been developed, using SYCL to pave the way to Exascale in a performance-portable manner.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "2D Model",
+        "Particle and Continuum",
+        "SYCL",
+        "Exascale"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "title": "NEPTUNE: Options for Geometry Representation",
+    "authors": [
+        "Wayne Arter",
+        "Lucian Anton",
+        "Debasmita Samaddar",
+        "Rob Akers"
+    ],
+    "summary": "This report describes work for the ExCALIBUR project NEPTUNE at Milestone 2.1.1. The investigation focuses on high order mesh generation as an optimal strategy for representing fusion device geometry in the presence of strong anisotropy induced by the magnetic field.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "fusion device geometry",
+        "mesh generation",
+        "anisotropy"
+    ]
+}

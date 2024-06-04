@@ -1,0 +1,23 @@
+{
+    "title": "Software Support Procurement: Hardware at the Exascale",
+    "authors": [
+        "Steven Wright",
+        "Ed Higgins",
+        "Ben Dudson",
+        "Peter Hill",
+        "David Dickinson",
+        "Gihan Mudalige",
+        "Ben McMillan",
+        "Tom Goffrey"
+    ],
+    "summary": "This report provides an overview of the current hardware roadmaps for various architectures, including Intel, AMD, NVIDIA, Arm, and other architectures. It also discusses reconfigurable architectures and compares their capabilities.",
+    "keywords": [
+        "Hardware",
+        "Exascale",
+        "Intel",
+        "AMD",
+        "NVIDIA",
+        "Arm",
+        "Software Support Procurement"
+    ]
+}

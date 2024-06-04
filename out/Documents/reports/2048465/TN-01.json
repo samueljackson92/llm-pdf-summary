@@ -1,0 +1,15 @@
+{
+    "title": "Surface mesh generation",
+    "authors": [
+        "David Moxey",
+        "Chris Cantwell",
+        "Spencer Sherwin"
+    ],
+    "summary": "This report focuses on the initial phase of work undertaken by the University of Exeter and Imperial College London to investigate challenges for generation of high-order meshes for the NEPTUNE project. The report assesses surface mesh quality attained during the high-order mesh generation process, with a particular focus on the maximum deflection angle of surface normal from the underlying CAD representation.",
+    "keywords": [
+        "high-order mesh",
+        "NEPTUNE project",
+        "surface mesh generation",
+        "CAD representation"
+    ]
+}

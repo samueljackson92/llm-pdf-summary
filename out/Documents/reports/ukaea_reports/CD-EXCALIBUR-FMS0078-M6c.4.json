@@ -1,0 +1,16 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System: Complementary actions. Code integration, acceptance and operation",
+    "authors": [
+        "Ed Threlfall",
+        "Owen Parry"
+    ],
+    "summary": "This report describes work for ExCALIBUR project NEPTUNE at Mile-stone M6c.4. It provides material concerning the implementation of plasma fluid solvers in N EKTAR ++.",
+    "keywords": [
+        "ExCALIBUR",
+        "fusion modelling",
+        "NEPTUNE",
+        "N EKTAR ++",
+        "plasma fluid solvers",
+        "code integration"
+    ]
+}

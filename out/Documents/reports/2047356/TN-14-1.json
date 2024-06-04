@@ -1,0 +1,20 @@
+{
+    "title": "Excalibur-Neptune report: DSL and code design pattern for NEPTUNE",
+    "authors": [
+        "Ben Dudson",
+        "Peter Hill",
+        "Edward Higgins",
+        "David Dickinson",
+        "Steven Wright",
+        "David Moxey"
+    ],
+    "summary": "Discusses approaches to code design and the adoption of domain specific languages (DSLs) for multi-species simulations in the BOUT++ and Nektar++ solvers.",
+    "keywords": [
+        "multi-species simulations",
+        "Bout++",
+        "Nektar++",
+        "DSL",
+        "code design",
+        "high-level DSL"
+    ]
+}

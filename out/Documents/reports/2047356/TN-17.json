@@ -1,0 +1,18 @@
+{
+    "title": "Progress on implementation of system 2-6 equations within Nektar++ framework",
+    "authors": [
+        "David Moxey",
+        "Ben Dudson",
+        "Peter Hill",
+        "Ed Higgins",
+        "David Dickinson",
+        "Steven Wright"
+    ],
+    "summary": "This report briefly outlines the initial efforts on implementing the system 2-6 equation set within the Nektar++ framework. It discusses changes made to the equation set since the previous deliverable, and outlines a prototype solver for a simplified set of equations, as well as the future development pathway for system 2-6.",
+    "keywords": [
+        "Nektar++",
+        "system 2-6 equations",
+        "plasma model",
+        "NEPTUNE project"
+    ]
+}

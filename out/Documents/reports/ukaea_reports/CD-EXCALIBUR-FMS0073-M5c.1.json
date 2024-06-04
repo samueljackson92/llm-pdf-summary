@@ -1,0 +1,15 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System at Milestone M5c.1",
+    "authors": [
+        "Ed Threlfall",
+        "Seimon Powell"
+    ],
+    "summary": "This report outlines work on uncertainty quantification (UQ) and reduced-order modelling for the ExCALIBUR project NEPTUNE. The report includes a simple reduced-order model describing convective heat transfer coupled to diffusion, with a focus on one-way and two-way coupling, two-dimensional heat transfer, and the calculation of a stability boundary between steady and time-dependent solutions.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "uncertainty quantification",
+        "reduced-order modeling",
+        "heat transfer"
+    ]
+}

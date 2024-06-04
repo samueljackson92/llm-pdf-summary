@@ -1,0 +1,16 @@
+{
+    "title": "Priority Equations and Test Cases: Preconditioning Milestones M1.1 and M2.1",
+    "authors": [
+        "Sue Thorne"
+    ],
+    "summary": "This document discusses the prioritization of equations and test cases within the NEPTUNE Programme's Preconditioning project, focusing on elliptic and hyperbolic problems.",
+    "keywords": [
+        "NEPTUNE",
+        "Preconditioning",
+        "Elliptic Problems",
+        "Hyperbolic Problems",
+        "BOUT++",
+        "Nektar++",
+        "Priority Equations"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "title": "Report on user layer design for UQ - ExCALIBUR Fusion Modelling System M3.1.3",
+    "authors": [
+        "Wayne Arter",
+        "Ed Threlfall",
+        "Joseph Parker",
+        "Rob Akers"
+    ],
+    "summary": "The report describes work for the ExCALIBUR project around techniques for Uncertainty Quantification (UQ) that are expected to prove important for the project. The focus is on optimizing plant design, identifying major sources of uncertainty, producing surrogates, and predicting distributions of expected outcomes.",
+    "keywords": [
+        "ExCALIBUR",
+        "Uncertainty Quantification",
+        "surrogate models",
+        "plant design",
+        "optimization"
+    ]
+}

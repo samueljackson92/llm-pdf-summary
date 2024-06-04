@@ -1,0 +1,19 @@
+{
+    "title": "Preconditioners for the NEPTUNE Programme: Numerical Results",
+    "authors": [
+        "Maksims Abal",
+        "Vassil Alexandrov",
+        "Niall Bootland",
+        "Anton Lebedev",
+        "Emre Sahin",
+        "Sue Thorne"
+    ],
+    "summary": "This report discusses the use of preconditioners in simulations relating to plasma physics. The authors describe their use of BOUT++ and Nektar++ for the NEPTUNE Project, detailing how preconditioners are currently incorporated into these libraries.",
+    "keywords": [
+        "Preconditioners",
+        "Plasma Physics",
+        "Simulations",
+        "BOUT++",
+        "Nektar++"
+    ]
+}

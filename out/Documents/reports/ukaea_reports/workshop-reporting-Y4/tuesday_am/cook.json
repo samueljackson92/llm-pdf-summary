@@ -1,0 +1,16 @@
+{
+    "title": "Neptune Exploratory Software: Progress and Challenges",
+    "authors": [
+        "James Cook"
+    ],
+    "summary": "A report on the development of Neptune Exploratory Software, discussing its current status, features such as PIC codes and particle-in-cell approaches, and the lessons learned during implementation.",
+    "keywords": [
+        "Neptune",
+        "exploratory software",
+        "PIC codes",
+        "particles",
+        "SYCL",
+        "GPU",
+        "high order finite element"
+    ]
+}

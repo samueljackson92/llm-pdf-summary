@@ -1,0 +1,14 @@
+{
+    "title": "Functional Emulation of Temperature Profiles in Spatial Domain",
+    "authors": [
+        "Yiming Yang"
+    ],
+    "summary": "This document introduces the Outer Product Emulator (OPE) for fitting smooth physical profiles. The OPE is used to emulate the relationship between direction and temperature profile on the bottom boundary at steady state in a 2-D model of Anisotropic Heat Transport.",
+    "keywords": [
+        "Functional Emulation",
+        "Temperature Profiles",
+        "Spatial Domain",
+        "Outer Product Emulator",
+        "Anisotropic Heat Transport"
+    ]
+}

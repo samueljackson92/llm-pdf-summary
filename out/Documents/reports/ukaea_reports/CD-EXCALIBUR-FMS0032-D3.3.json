@@ -1,0 +1,16 @@
+{
+    "title": "ExCALIBUR Module Guide",
+    "authors": [
+        "Wayne Arter",
+        "Ed Threlfall",
+        "Joseph Parker",
+        "Will Saunders"
+    ],
+    "summary": "This report provides a discussion for the NEPTUNE project of both very high-level and very low-level options for the basic module structure, together with input/output and fine-scale data structures.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "software structure",
+        "Unified Modeling Language (UML 2)"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Implicit-factorization preconditioners for non-symmetric problems",
+    "authors": [
+        "Maksims Abal",
+        "Vassil Alexandrov",
+        "Niall Bootland",
+        "Anton Lebedev",
+        "Emre Sahin",
+        "Sue Thorne"
+    ],
+    "summary": "This report extends the class of constraint preconditioners from symmetric problems to non-symmetric problems, considering theoretical properties and demonstrating their effectiveness on a set of test problems inspired by the Hasegawa-Wakatani problem.",
+    "keywords": [
+        "Implicit-factorization",
+        "preconditioners",
+        "non-symmetric problems",
+        "Hasegawa-Wakatani problem"
+    ]
+}

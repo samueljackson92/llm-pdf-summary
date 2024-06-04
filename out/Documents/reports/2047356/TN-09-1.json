@@ -1,0 +1,17 @@
+{
+    "title": "Task 83-4.1 Test cases for 1D multispecies plasma model",
+    "authors": [
+        "Ben Dudson",
+        "Peter Hill",
+        "Ed Higgins",
+        "David Dickinson",
+        "Steven Wright"
+    ],
+    "summary": "Outlines test cases for a 1D multispecies plasma model given by system 2-5 of reference [1]. The tests build on the tests for the single plasma fluid model and cover three broad areas: separate ion and electron temperatures, enhanced neutral gas models including different excited states of hydrogen, and impurity species.",
+    "keywords": [
+        "plasma model",
+        "1D multispecies",
+        "test cases",
+        "Excalibur-Neptune"
+    ]
+}

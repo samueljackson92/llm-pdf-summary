@@ -1,0 +1,14 @@
+{
+    "title": "A Non-intrusive ROM for Solvers with High-dimensional Outputs",
+    "authors": [
+        "Deyu Ming",
+        "Serge Guillas"
+    ],
+    "summary": "This report discusses the challenges of e\ufb03cient uncertainty quanti\ufb01cation in modern physical computer models and proposes a non-intrusive reduced order model (ROM) using Gaussian process (GP) surrogates for problems with high dimensional outputs. The method is applied to an anisotropic heat transport problem.",
+    "keywords": [
+        "Reduced Order Models",
+        "Gaussian Process",
+        "High-dimensional Outputs",
+        "Anisotropic Heat Transport"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "title": "Numerical study of 1+1D drift kinetic models for parallel dynamics in the plasma edge",
+    "authors": [
+        "M. Barnes",
+        "F. I. Parra",
+        "M. R. Hardman",
+        "J. Omotani"
+    ],
+    "summary": "This report presents a set of drift kinetic models as candidate models for describing plasma dynamics parallel to the field in both open-field-line and closed-field-line regions of the edge, in the presence of neutrals. The aim is to test the relative e\ufb03cacy of these models for numerical simulation.",
+    "keywords": [
+        "drift kinetic equations",
+        "plasma dynamics",
+        "parallel plasma dynamics",
+        "open-field-line region",
+        "closed-field-line region"
+    ]
+}

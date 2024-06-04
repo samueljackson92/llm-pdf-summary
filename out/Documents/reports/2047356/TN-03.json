@@ -1,0 +1,18 @@
+{
+    "title": "Excalibur-Neptune report: Task 1.2 Elliptic solver implementation",
+    "authors": [
+        "Ben Dudson",
+        "Peter Hill",
+        "Ed Higgins",
+        "David Dickinson",
+        "Steven Wright"
+    ],
+    "summary": "Reference elliptic solver implementations in BOUT++ are described, along with the techniques which use simplified methods to effectively precondition more complex problems. Implementations include PETSc-based solvers and a new Hypre implementation.",
+    "keywords": [
+        "elliptic solver",
+        "BOUT++",
+        "PETSc",
+        "Hypre",
+        "Alfv\u00e9n wave test"
+    ]
+}

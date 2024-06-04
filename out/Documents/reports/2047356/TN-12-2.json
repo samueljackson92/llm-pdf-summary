@@ -1,0 +1,19 @@
+{
+    "title": "Elliptic solvers within Nektar++",
+    "authors": [
+        "David Moxey",
+        "Ben Dudson",
+        "Peter Hill",
+        "Ed Higgins",
+        "David Dickinson",
+        "Steven Wright"
+    ],
+    "summary": "This report focuses on the performance of the elliptic solver within Nektar++ and its scaling in the limit of large processor counts. The solver has been used within the anisotropic di\ufb00usion solver provided under project 2048465.",
+    "keywords": [
+        "Nektar++",
+        "Elliptic solvers",
+        "High-order finite element",
+        "Performance",
+        "Preconditioning"
+    ]
+}

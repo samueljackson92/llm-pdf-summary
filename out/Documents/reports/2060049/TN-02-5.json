@@ -1,0 +1,20 @@
+{
+    "title": "Coupling of continuum (fluid) and particle models of plasma for NEPTUNE",
+    "authors": [
+        "Hussam Al Daas",
+        "Niall Bootland",
+        "Tyrone Rees",
+        "Andrew Sunderland",
+        "Josh Williams",
+        "Philippa Rubin",
+        "Sue Thorne"
+    ],
+    "summary": "The aim of this report is to explore techniques and software relevant to the coupling of continuum (fluid) and particle models of plasma for NEPTUNE, focusing on improving the scalability and accuracy of simulations for ITER and related fusion technology.",
+    "keywords": [
+        "plasma simulation",
+        "fusion modeling",
+        "NEPTUNE project",
+        "fluid-particle coupling",
+        "PIC method"
+    ]
+}

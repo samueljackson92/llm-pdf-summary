@@ -1,0 +1,21 @@
+{
+    "title": "Improving algorithms within NEPTUNE for fusion energy simulations at exascale",
+    "authors": [
+        "Alexandrov V",
+        "Bootland N",
+        "Rees T",
+        "Sunderland A",
+        "Thorne S"
+    ],
+    "summary": "This document discusses the challenges and upcoming work related to improving algorithms within the NEPTUNE program for fusion energy simulations at exascale. It focuses on fluid methods, coupling of fluid and particle methods, and time-stepping techniques.",
+    "keywords": [
+        "NEPTUNE",
+        "fusion energy",
+        "simulations",
+        "exascale",
+        "fluid methods",
+        "particle methods",
+        "time-stepping",
+        "preconditioners"
+    ]
+}

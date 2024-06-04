@@ -1,0 +1,18 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System",
+    "authors": [
+        "Ed Threlfall",
+        "Owen Parry",
+        "Will Saunders"
+    ],
+    "summary": "The report describes work for ExCALIBUR project NEPTUNE at Milestone 6c.2. It provides material on finite element exterior calculus and recent developments within the Nektar++ solver framework.",
+    "keywords": [
+        "Exterior Calculus",
+        "Finite Element Method",
+        "Numerical Models",
+        "Particle-in-Cell Simulations",
+        "Firedrake PDE Solver",
+        "NEPTUNE",
+        "Nektar++"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Overview of the numerical issues and findings associated with the 1D and 2D drift kinetic models",
+    "authors": [
+        "M. Barnes",
+        "M. R. Hardman",
+        "J. Omotani",
+        "F. I. Parra"
+    ],
+    "summary": "An accurate model of plasma dynamics in the edge of tokamaks must include a treatment of both open and closed field lines, motion both along and across the (predominantly toroidal) equilibrium magnetic field, and interaction between charged and neutral particles. The results of our numerical studies of these models is contained in a series of reports, with key findings discussed.",
+    "keywords": [
+        "plasma dynamics",
+        "tokamaks",
+        "drift kinetic models",
+        "numerical studies"
+    ]
+}

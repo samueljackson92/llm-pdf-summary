@@ -1,0 +1,12 @@
+{
+    "title": "Identification of suitable preconditioner techniques",
+    "authors": [
+        "Not provided"
+    ],
+    "summary": "This report discusses the importance of preconditioning in solving systems of Partial Differential Equations (PDEs) and provides an overview of different classes of preconditioners.",
+    "keywords": [
+        "preconditioner",
+        "Partial Differential Equations",
+        "iterative methods"
+    ]
+}

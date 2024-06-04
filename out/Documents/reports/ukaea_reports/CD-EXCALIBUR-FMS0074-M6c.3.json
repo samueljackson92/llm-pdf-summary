@@ -1,0 +1,18 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System: Complementary actions. Code integration, acceptance and operation 3",
+    "authors": [
+        "Ed Threlfall",
+        "Owen Parry",
+        "Wayne Arter"
+    ],
+    "summary": "This report describes work for the ExCALIBUR project NEPTUNE at Milestone M6c.3. It focuses on the implementation of HERMES -3 equations in N EKTAR ++, improvements to the solver efficiency, and attempts to verify its outputs. The report also outlines further developments and verifies them against recent literature results.",
+    "keywords": [
+        "ExCALIBUR",
+        "NEPTUNE",
+        "HERMES-3",
+        "N EKTAR ++",
+        "solver efficiency",
+        "verification",
+        "physics codes"
+    ]
+}

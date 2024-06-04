@@ -1,0 +1,16 @@
+{
+    "title": "ExCALIBUR Fusion Modelling System: Finite Element Models: Complementary Activities I",
+    "authors": [
+        "Ed Threlfall",
+        "Wayne Arter",
+        "Rob Akers"
+    ],
+    "summary": "This report describes work for ExCALIBUR project NEPTUNE at Milestone 6.1, including the application of Nektar++ finite-element software to natural convection problems and an outline of the complementary experimental programme Smallab.",
+    "keywords": [
+        "ExCALIBUR",
+        "Nektar++",
+        "finite-element",
+        "convection",
+        "heat transport"
+    ]
+}
