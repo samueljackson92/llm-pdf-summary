@@ -1,0 +1,18 @@
+{
+    "title": "Convergence of the solutions of the 2D-1V ion drift kinetic equation with wall boundary conditions: manufactured solutions tests",
+    "authors": [
+        "M. R. Hardman",
+        "J. Omotani",
+        "M. Barnes",
+        "S. L. Newton",
+        "F. I. Parra"
+    ],
+    "summary": "This report describes an investigation into the convergence of a 2D edge plasma model with collisionless kinetic ions and wall boundary conditions. The poor convergence observed in previous studies is addressed by addressing the interaction between the numerical scheme and ion wall boundary condition, and suppressing a wave-like instability that emerges in simulations.",
+    "keywords": [
+        "Convergence",
+        "2D edge plasma model",
+        "ion drift kinetic equation",
+        "wall boundary conditions",
+        "manufactured solutions tests"
+    ]
+}

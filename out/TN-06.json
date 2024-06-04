@@ -1,0 +1,17 @@
+{
+    "title": "Implementation and scalability analysis of coupling continuum (fluid) and particle models of plasma for NEPTUNE",
+    "authors": [
+        "Josh Williams",
+        "Sue Thorne"
+    ],
+    "summary": "This report presents the implementation and scalability analysis of a continuum-kinetic simulation coupling using CWIPI, focusing on a case provided by UKAEA.",
+    "keywords": [
+        "nuclear fusion",
+        "plasma",
+        "continuum model",
+        "particle model",
+        "CWIPI",
+        "Nektar++",
+        "scaling"
+    ]
+}

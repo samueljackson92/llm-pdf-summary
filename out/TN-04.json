@@ -1,0 +1,18 @@
+{
+    "title": "Time Stepping Techniques and Preconditioning for Hyperbolic and Anisotropic Elliptic Problems",
+    "authors": [
+        "Hussam Al Daas",
+        "Niall Bootland",
+        "Tyrone Rees",
+        "Sue Thorne"
+    ],
+    "summary": "Exascale targeted plasma modelling will require the efficient and accurate solution of systems of hyperbolic and corresponding elliptic problems, in the presence of highly anisotropic dynamics. The techniques used to solve such problems must scale with the computing power available and be robust enough to be portable to any emerging hardware.",
+    "keywords": [
+        "Time Stepping Techniques",
+        "Preconditioning",
+        "Hyperbolic PDEs",
+        "Anisotropic Elliptic Problems",
+        "Exascale Computing",
+        "Plasma Modelling"
+    ]
+}

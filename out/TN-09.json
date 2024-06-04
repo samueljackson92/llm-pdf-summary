@@ -1,0 +1,16 @@
+{
+    "title": "Adjoint-based sensitivity analysis of a differentially-heated cavity",
+    "authors": [
+        "Josh Williams",
+        "Ubaid Ali Qadri",
+        "Sue Thorne"
+    ],
+    "summary": "This report studies the stability of a differentially-heated cavity using the adjoint method. The sensitivity of the eigenvalue to changes in wall temperature is evaluated with varying top and bottom boundary conditions.",
+    "keywords": [
+        "Tokamak reactors",
+        "plasma flow",
+        "stability analysis",
+        "adjoint method",
+        "sensitivity analysis"
+    ]
+}

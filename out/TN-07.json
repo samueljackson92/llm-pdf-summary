@@ -1,0 +1,16 @@
+{
+    "title": "A Review of Solution Continuation Techniques",
+    "authors": [
+        "Niall Bootland",
+        "Tyrone Rees",
+        "Sue Thorne"
+    ],
+    "summary": "This report discusses methodologies for continuation of solutions to nonlinear equations as we vary a problem parameter. It covers key approaches most relevant to modern computing and gives a basic understanding of the types of behaviours that one may observe.",
+    "keywords": [
+        "bifurcation analysis",
+        "continuation methods",
+        "nonlinear equations",
+        "numerical computations",
+        "large-scale application codes"
+    ]
+}

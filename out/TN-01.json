@@ -1,0 +1,21 @@
+{
+    "title": "Preconditioners for the NEPTUNE Programme: Numerical Results",
+    "authors": [
+        "Maksims Abalenskovs",
+        "Vassil Alexandrov",
+        "Niall Bootland",
+        "Anton Lebedev",
+        "Emre Sahin",
+        "Sue Thorne"
+    ],
+    "summary": "This report discusses the use of preconditioners in simulations related to plasma physics and their impact on reducing the number of iterations and solution time. It focuses on BOUT++ and Nektar++ software for Plasma Physics Modelling.",
+    "keywords": [
+        "preconditioners",
+        "plasma physics",
+        "simulations",
+        "iterative methods",
+        "Krylov subspace method",
+        "BOUT++",
+        "Nektar++"
+    ]
+}

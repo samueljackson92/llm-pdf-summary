@@ -1,0 +1,20 @@
+{
+    "title": "Coupling of Continuum and Particle Models of Plasma for NEPTUNE",
+    "authors": [
+        "Hussam Al Daas",
+        "Niall Bootland",
+        "Tyrone Rees",
+        "Andrew Sunderland",
+        "Philippa Rubin",
+        "Sue Thorne",
+        "Josh Williams"
+    ],
+    "summary": "This report discusses the techniques and software relevant to coupling fluid and particle models of plasma for the NEPTUNE project, focusing on overcoming the limitations of existing legacy codes. It also reviews methods available in literature for hybridising the fluid and particle approaches, and considers code coupling libraries as potential solutions.",
+    "keywords": [
+        "NEPTUNE",
+        "plasma simulation",
+        "fluid-particle coupling",
+        "hybridisation",
+        "code coupling libraries"
+    ]
+}

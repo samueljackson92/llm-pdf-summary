@@ -1,0 +1,16 @@
+{
+    "title": "Implementation of TensorRegions library in Nektar++",
+    "authors": [
+        "Chris Cantwell",
+        "Spencer Sherwin",
+        "David Moxey"
+    ],
+    "summary": "This report outlines the initial stages of development of the TensorRegions library, which aims to capitalize on a concept of constructing high-dimensional problems as a tensor product of lower-dimensional finite element spaces.",
+    "keywords": [
+        "TensorRegions",
+        "Nektar++",
+        "high-dimensional PDEs",
+        "finite element spaces",
+        "deliverable 1.1"
+    ]
+}

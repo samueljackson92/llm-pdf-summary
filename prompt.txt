@@ -1,0 +1,18 @@
+Please output JSON formatted metadata with the following schema structure:
+
+{{
+    "title": "string",
+    "authors" "list[string]",
+    "summary": "string",
+    "keywords": "list[string]",
+    "report_id": "string",
+}}
+
+
+Do not include report IDs in the title.
+Do not include author names in the title.
+Do not institutions in the author names.
+
+For the following document:
+
+{text}
